@@ -34,12 +34,12 @@ https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 
+#EXTINF:-1, group-title="DRAMA" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png",Drama Sangat
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+
 
 ______________________
 TAK HIDUP
-
-#EXTINF:-1, group-title="DRAMA" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png",Drama Sangat
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/96c825ee6f9d2f3271195.jpg",Sukan RTM
 http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
@@ -477,7 +477,7 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG/nkMNDuNoZKk/1cG3xTZG5w=&
-#EXTINF:-1  group-title="SINGAPORE" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" ,Suria MPD
+#EXTINF:-1  group-title="SINGAPORE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Mediacorp_Suria_logo.jpg" ,Suria MPD
 https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
 
 
