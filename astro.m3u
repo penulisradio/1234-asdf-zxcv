@@ -123,12 +123,6 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png",Astro Quan Jia 全佳 CH308
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png",Celestial Movies 天映频道 CH309
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/92525a08e0280d4791558.jpg",Astro 华丽台 [TVB Jade]
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
@@ -166,6 +160,9 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6817
 #EXTINF:-1, group-title="ENGLISH" tvg-logo="https://telegra.ph/file/a14e7747aa9c336fc31d6.jpg",Oh!K CH394
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
+
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png",Celestial Movies 天映频道 CH309
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png",tvN CH395
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie CH401
@@ -177,25 +174,27 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [Backup]
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 
-
+________________________________
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/ced8ebb08eb66828f3656.png",HBO 2 US FHD
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b9c6a803bd2155fea86a3.png",HBO USA FHD [EAST]
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b9c6a803bd2155fea86a3.png",HBO USA FHD [WEST]
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b9c6a803bd2155fea86a3.png",HBO 1 CANADA HD [Soft Sub]
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b9c6a803bd2155fea86a3.png",HBO 2 CANADA HD [Soft Sub]
-
+________________________________
 
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png",HBO Hits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO Asia [Backup]
-https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
-#EXTINF:-1,HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
-#EXTINF:-1,HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png",HBO Hits [Backup]
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX [Backup]
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://www.logolynx.com/images/logolynx/7a/7a20fe25774fa87b31f9533077f15fe7.png",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+
+
+
+
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX CH412
 https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 #EXTINF:-1,Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
@@ -203,22 +202,17 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/ceb6af3920a41c9795eca.png",CinemaWorld Indo Sub [Guna VPN]
 http://210.210.155.35/uq2663/h/h04/index.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX CH412
-https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
+
+
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/9f6377b501789af716993.png",CINEMAX MOREMAX HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20907
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX EAST HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20906
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/c286472ec0a87411c8f8c.png",CINEMAX OUTERMAX HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20905
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/ed7680ff3de682cb8d8ba.png",CINEMX MOVIEMAX HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20897
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/57b8b54f1ae6a545de204.png",CINEMAX 5 STARMAX HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7892
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b4571424c20b5fc93f285.png",CINEMAX ACTIONMAX
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20898
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX PLUS HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14186
+
+
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/f4a09bf4f1d490d221850.png",FOX Movies CH413
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/8b270258f61fe4bda1832.png",FOX Action Movies CH415
