@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml" refresh="3600"
+
 #EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png" group-title="Malay",TV1 HD
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png" group-title="Malay",TV2
