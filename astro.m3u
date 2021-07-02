@@ -8,7 +8,7 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png",TV2 CH102
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="Malay",TV3
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE TV",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/04d73bd40aaf937296d26.png",TV6
@@ -426,19 +426,20 @@ http://bazarhd.online:80/307210575557/307210575557/163917
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/ecdbc61394b43b3f2ff96.png",beIN Sport 3 [English - Backup]
 http://bazarhd.online:80/307210575557/307210575557/163900
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD1 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385863.ts
+
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD2 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385864.ts
+
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD3 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385865.ts
+
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD4 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385866.ts
+
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD5 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385867.ts
+
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD6 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385868.ts
+
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD07 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385869.ts
+
+
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/0d7094e8aae683dc7a40b.jpg",beIN Sport HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7866
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",beIN Sport 1 [FR]
@@ -461,7 +462,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6794
 http://zalogitv.tech:8080/live/mastro-top/2323/301.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ=&
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG/nkMNDuNoZKk/1cG3xTZG5w=&
 #EXTINF:-1  group-title="SINGAPORE" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" ,Channel 5 MPD
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 #EXTINF:-1, group-title="SINGAPORE" tvg-logo="https://telegra.ph/file/b14bd09ec1e428679a165.png",Channel 5
