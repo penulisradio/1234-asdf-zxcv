@@ -5,5 +5,8 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="Malay",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="104" tvg-name="Astro Ria HD" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="Malay",Astro Ria HD
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="Malay",Astro Prima HD
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
