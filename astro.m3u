@@ -1,16 +1,14 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml" refresh="3600"
 
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png",TV1 CH101 MPD
-#EXTINF:-1 ,#https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png",TV1 CH101
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png",TV2 CH102 MPD
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png",TV2 CH102
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",TV3 CH103
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="Malay",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/04d73bd40aaf937296d26.png",TV6
