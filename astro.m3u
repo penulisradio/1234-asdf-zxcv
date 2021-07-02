@@ -125,10 +125,10 @@ http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png",Celestial Movies 天映频道 CH309
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png",Celestial Movies Indo Sub [Guna VPN]
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/63f82b6d600903af36faa.png",TVB Jade CH310 [Backup]
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319320
+
+
+
+
 
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/92525a08e0280d4791558.jpg",Astro 华丽台 [TVB Jade]
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
@@ -142,8 +142,7 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320683
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319319
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/aaad88bee4d7c2b20edd8.png",TVBS Asia HD CH320
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6843
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/365a626b25d56ee7337ec.jpg",CCM 天映经典 CH321
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/870793532bc0a89fdb389.jpg",Astro Hua Hee Dai 欢喜台 CH333
 http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/cbe6901e74eb701ccfa16.jpg",CCTV4 HD CH335
@@ -166,34 +165,26 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6817
 #EXTINF:-1, group-title="ENGLISH" tvg-logo="https://telegra.ph/file/a14e7747aa9c336fc31d6.jpg",Oh!K CH394
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png",tvN CH395
-http://zalogitv.tech:8080/mastro-top/2323/299|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png",tvN EN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie CH401
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg",BOO CH404
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg",BOO CH404
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [Malay Sub] CH405
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO CH405
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [Malay Dub]
-http://iptv.tvmalaysia.cc:80/penang172/penang172/8840
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO FHD [Indo Sub]
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7067
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [English Sub]
-http://rv.imax.re:80/7076610784/1167304977/79755
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/ced8ebb08eb66828f3656.png",HBO 2 US FHD [Soft Sub]
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20904
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b9c6a803bd2155fea86a3.png",HBO USA FHD [EAST]
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148633
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b9c6a803bd2155fea86a3.png",HBO USA FHD [WEST]
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148634
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b9c6a803bd2155fea86a3.png",HBO 1 CANADA HD [Soft Sub]
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21084
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b9c6a803bd2155fea86a3.png",HBO 2 CANADA HD [Soft Sub]
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5002
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [Backup]
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+
+
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/ced8ebb08eb66828f3656.png",HBO 2 US FHD
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b9c6a803bd2155fea86a3.png",HBO USA FHD [EAST]
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b9c6a803bd2155fea86a3.png",HBO USA FHD [WEST]
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b9c6a803bd2155fea86a3.png",HBO 1 CANADA HD [Soft Sub]
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b9c6a803bd2155fea86a3.png",HBO 2 CANADA HD [Soft Sub]
+
+
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png",HBO Hits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO Asia [Backup]
@@ -345,6 +336,13 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
 http://bazarhd.online:80/307210575557/307210575557/85135
 #EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/8630ed8bde0bdfd0c3dbf.png",Boomerang [Backup]
 http://tv.dansk.live:8080/5ydbqxNuVN/2LnH3tvpaW/32
+
+#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/365a626b25d56ee7337ec.jpg",CCM 天映经典 CH321
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+
+
+
 #EXTINF:-1, tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN Indo Sub CH701
 http://zalogitv.tech:8080/live/mastro-top/2323/1402.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1, tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN Indo Sub [Guna VPN]
