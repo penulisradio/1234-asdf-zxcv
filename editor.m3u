@@ -29,5 +29,5 @@ http://test.com
 http://test.com
 #EXTINF:-1 tvg-id="Colors Hindi HD" tvg-name="Colors HD (Hindi)" tvg-logo="" group-title="MALAY",Colors HD (Hindi)
 http://test.com
-#EXTINF:-1 tvg-id="Go Shop 118" tvg-name="Astro Go Shop RUUMA" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png" group-title="MALAY",Astro Go Shop RUUMA
+#EXTINF:-1 tvg-id="Go Shop 118" tvg-name="Go Shop 118" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png" group-title="MALAY",Astro Go Shop RUUMA
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
