@@ -23,7 +23,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
 #EXTINF:-1 tvg-id="Astro Aura HD" tvg-name="Astro Aura HD" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png" group-title="MALAY",Astro Aura HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
-#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="TV Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png" group-title="MALAY",TV Al-Hijrah
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png" group-title="MALAY",TV Al-Hijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Box Office Movies Tayangan Hebat HD" tvg-logo="" group-title="MALAY",Astro Box Office Movies Tayangan Hebat HD
 
