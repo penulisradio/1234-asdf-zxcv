@@ -1,10 +1,14 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
-#EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png" group-title="MALAY",TV1 HD
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png" group-title="MALAY",TV1 HD MPD
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png" group-title="MALAY",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="MALAY",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://telegra.ph/file/e329e809e30ac4c5c8414.png" group-title="MALAY",NTV7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png" group-title="MALAY",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="Astro Ria HD" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="MALAY",Astro Ria HD
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="MALAY",Astro Prima HD
@@ -17,7 +21,7 @@ http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="Naura HD CH109" tvg-name="Naura HD" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="MALAY",Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-id="Go Shop 111" tvg-name="Go Shop 111" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="MALAY",Go Shop 111
+#EXTINF:-1 tvg-id="Go Shop 111" tvg-name="Go Shop 111" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="MALAY",Astro Go Shop 111
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:-1 tvg-id="Astro Rania HD" tvg-name="Astro Rania HD" tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="MALAY",Astro Rania HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
@@ -27,7 +31,55 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Box Office Movies Tayangan Hebat HD" tvg-logo="" group-title="MALAY",Astro Box Office Movies Tayangan Hebat HD
 
-#EXTINF:-1 tvg-id="Colors Hindi HD" tvg-name="Colors Hindi HD" tvg-logo="https://telegra.ph/file/813e66c2f879d71fe0151.png" group-title="MALAY",Colors Hindi HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
-#EXTINF:-1 tvg-id="Go Shop 118" tvg-name="Astro Go Shop RUUMA" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png" group-title="MALAY",Astro Go Shop RUUMA
+#EXTINF:-1 tvg-id="Go Shop 118" tvg-name="Go Shop 118" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png" group-title="MALAY",Astro Go Shop RUUMA
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
+#EXTINF:-1 tvg-id="Go Shop 120" tvg-name="Go Shop 120" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png" group-title="MALAY",Astro Go Shop GAAYA
+http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://telegra.ph/file/e625d11f0db6e2538459e.png" group-title="MALAY",TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" tvg-logo="https://telegra.ph/file/e625d11f0db6e2538459e.png" group-title="MALAY",TV Okey CH146 MPD
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+#EXTINF:-1 tvg-id="Awesome TV" tvg-name="Awesome TV" tvg-logo="https://telegra.ph/file/dcfe3ac04822ae28becdd.png" group-title="MALAY",Awesome TV
+http://51.79.208.146:61980/myplay/c_58014/index.m3u8
+#EXTINF:-1 tvg-id="Drama Sangat" tvg-name="Drama Sangat" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png" group-title="MALAY",Drama Sangat
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#EXTINF:-1 tvg-id="TV IKIM" tvg-name="TV IKIM" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png" group-title="MALAY",TV IKIM
+http://test.com
+#EXTINF:-1 tvg-id="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MALAY",Berita RTM
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIAN",Colors Hindi HD CH116
+
+#EXTINF:-1 tvg-id="Astro Vaanavil HD" tvg-name="Astro Vaanavil HD" tvg-logo="https://telegra.ph/file/fc9cace1727875203b211.png" group-title="INDIAN",Astro Vaanavil HD CH201
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF:-1 tvg-id="Astro Vinmeen HD" tvg-name="Astro Vinmeen HD" tvg-logo="https://telegra.ph/file/ec1b2e4750ff1c7af2546.png" group-title="INDIAN",Astro Vinmeen HD CH202
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
+#EXTINF:-1 tvg-id="" tvg-name="Astro Vellithirai" tvg-logo="" group-title="INDIAN",Astro Vellithirai CH203
+
+#EXTINF:-1 tvg-id="Makkal TV" tvg-name="Makkal TV" tvg-logo="https://telegra.ph/file/1ac3f6072dc96481dc6d8.png" group-title="INDIAN",Makkal TV CH204
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
+#EXTINF:-1 tvg-id="Sun TV" tvg-name="Sun TV" tvg-logo="https://telegra.ph/file/fda662b3de9bdd84bf978.png" group-title="INDIAN",Sun TV HD CH211
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6733
+#EXTINF:-1 tvg-id="" tvg-name="Sun Music" tvg-logo="" group-title="INDIAN",Sun Music CH212
+
+#EXTINF:-1 tvg-id="Chutti TV" tvg-name="Chutti TV" tvg-logo="https://telegra.ph/file/00b8b26476ecbcfc7e7d7.png" group-title="INDIAN",Chutti TV CH213
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6762
+#EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" tvg-logo="https://telegra.ph/file/a00e8122bd692553677ef.png" group-title="INDIAN",Adithya CH214
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6700
+#EXTINF:-1 tvg-id="Star Vijay HD" tvg-name="Star Vijay HD" tvg-logo="https://telegra.ph/file/63ff70326774e94cf29b1.png" group-title="INDIAN",Star Vijay HD CH221
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
+#EXTINF:-1 tvg-id="Colors Tamil HD" tvg-name="Colors Tamil HD" tvg-logo="https://telegra.ph/file/813e66c2f879d71fe0151.png" group-title="INDIAN",Colors Tamil HD CH222
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
+#EXTINF:-1 tvg-id="Zee Tamil HD" tvg-name="Zee Tamil HD" tvg-logo="https://telegra.ph/file/0d0afc349f8d45f458547.jpg" group-title="INDIAN",Zee Tamil HD CH223
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIAN",Astro Box Office Movie Thangathirai HD
+
+#EXTINF:-1 tvg-id="BollyOne HD" tvg-name="BollyOne HD" tvg-logo="https://telegra.ph/file/33990ed2d000b555a2c5b.png" group-title="INDIAN",BollyOne HD CH251
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png" group-title="CHINESE",8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 tvg-id="iQIYI HD" tvg-name="iQIYI HD" tvg-logo="https://telegra.ph/file/23afe385534ad2eb2d9c8.png" group-title="CHINESE",iQIYI HD CH300
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6723
+#EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png" group-title="MOVIE",Celestial Movies HD CH309
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-id="SURIA" tvg-name="SURIA" tvg-logo="https://www.logolynx.com/images/logolynx/a1/a183dc67e9459d35422b6333b264f270.jpeg" group-title="SINGAPORE",SURIA
+http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
