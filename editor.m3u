@@ -69,15 +69,15 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png" group-title="CHINESE",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-id="iQIYI HD" tvg-name="iQIYI HD CH300" tvg-logo="https://telegra.ph/file/23afe385534ad2eb2d9c8.png" group-title="CHINESE",iQIYI HD CH300
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6723
+#EXTINF:-1 tvg-id="iQIYI HD" tvg-name="iQIYI HD" tvg-logo="https://telegra.ph/file/23afe385534ad2eb2d9c8.png" group-title="CHINESE",iQIYI HD CH300
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 #EXTINF:-1 tvg-id="Celestial Classic Movies" tvg-name="Celestial Classic Movies CH321" tvg-logo="https://telegra.ph/file/365a626b25d56ee7337ec.jpg" group-title="CHINESE",Celestial Classic Movies CH321
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro AEC HD" tvg-logo="https://telegra.ph/file/baa5a46acbd1f2a395ce4.png" group-title="CHINESE",Astro AEC CH306
 http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro AOD HD 311" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title="CHINESE",Astro AOD HD 311
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="MOVIES",AXN
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="MOVIES",AXN HD
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD CH309" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png" group-title="MOVIES",Celestial Movies HD CH309
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
@@ -188,6 +188,7 @@ http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 
 
 
+
 ________________________________________________________________________________________
 
 
@@ -207,7 +208,7 @@ https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.m
 
 INDONESIA
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png" group-title="Knowledge", Adventure 4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png" group-title="INDONESIA", Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -254,7 +255,7 @@ https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="tVN Movies HD" tvg-name="tVN Movies HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="Korea/Japan",TVN Movies HD CH416
+#EXTINF:-1 tvg-id="tVN Movies HD" tvg-name="tVN Movies HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREA/JAPAN",TVN Movies HD CH416
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 SPORTS
@@ -327,8 +328,13 @@ http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="RADIO", Sinar FM
 http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio", Hitz FM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="RADIO", Hitz FM
 http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
+
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yhJJMEVCrU.jpg" group-title="RADIO", Klasik Nasional FM
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yhJJMEVCrU.jpg" group-title="RADIO", Klasik Nasional FM
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
