@@ -361,6 +361,22 @@ https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm
 
 ---------------------------------
 
+#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSportHD 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+#http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSportHD 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+#http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSportHD 3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+#http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSportHD 4
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport5HD" group-title="SPORTS" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",Bein Max
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 
 
