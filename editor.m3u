@@ -389,25 +389,5 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MY - eGG Network" tvg-logo="" group-title="MALAYSIA TV",MY - eGG Network
-http://139.99.71.104:8888/live/6795721093/k6rzZ3plFH/37421.ts
-#EXTINF:-1 tvg-id="" tvg-name="MY - HGTV HD" tvg-logo="" group-title="MALAYSIA TV",MY - HGTV HD
-http://139.99.71.104:8888/live/6795721093/k6rzZ3plFH/37416.ts
-#EXTINF:-1 tvg-id="" tvg-name="MY - DMAX HD" tvg-logo="" group-title="MALAYSIA TV",MY - DMAX HD
-http://139.99.71.104:8888/live/6795721093/k6rzZ3plFH/37417.ts
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND HD 311" tvg-name="ASTRO AOD 351 HD" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="ASTRO MALAYSIA",ASTRO AOD 351 HD
-http://iptv.tvmalaysia.cc:80/live/932633/932633/6702.ts
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 352" tvg-name=" ASTRO AOD 352 HD" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="ASTRO MALAYSIA", ASTRO AOD 352 HD
-http://iptv.tvmalaysia.cc:80/live/932633/932633/6703.ts
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 353" tvg-name="ASTRO AOD 353 HD" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="ASTRO MALAYSIA",ASTRO AOD 353 HD
-http://iptv.tvmalaysia.cc:80/live/932633/932633/6704.ts
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 354" tvg-name="ASTRO AOD 354 HD" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="ASTRO MALAYSIA",ASTRO AOD 354 HD
-http://iptv.tvmalaysia.cc:80/live/932633/932633/6705.ts
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 355" tvg-name="ASTRO AOD 355 HD" tvg-logo="https://i.postimg.cc/Kc5TzkLs/Astro-AOD-s17.png" group-title="ASTRO MALAYSIA",ASTRO AOD 355 HD
-http://iptv.tvmalaysia.cc:80/live/932633/932633/6706.ts
-
-
-
-
 
 
