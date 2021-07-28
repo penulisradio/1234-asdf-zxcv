@@ -384,9 +384,11 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 
 
 ——————————————————————————————————
+#EXTINF:-1 group-title="LUTFI | ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/176_144.png",Astro Box Office
+http://iptvtree.net:8080/11703/688cbf1a/195647?play_token=VPvpGxzDuh
 
-
-
+#EXTINF:-1 group-title="LUTFI | ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/176_144.png",Astro On Demand
+http://iptvtree.net:8080/F11664/1704fb2b/195647?play_token=JCjAx1bT5E
 
 
 
