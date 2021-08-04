@@ -1,28 +1,28 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml" refresh="3600"
 #EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png" group-title="MALAY",TV1 HD
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+http://iptv.tvmalaysia.cc/624850/624850/7177
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png" group-title="MALAY",TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/7178
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="MALAY",TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/8750
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://telegra.ph/file/e329e809e30ac4c5c8414.png" group-title="MALAY",NTV7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png" group-title="MALAY",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/7185
 #EXTINF:-1 tvg-id="Astro Ria HD" tvg-name="Astro Ria HD" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="MALAY",Astro Ria HD
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6730
 #EXTINF:-1 tvg-id="Astro Prima HD" tvg-name="Astro Prima HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="MALAY",Astro Prima HD
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6727
 #EXTINF:-1 tvg-id="Astro Oasis HD" tvg-name="Astro Oasis HD" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg" group-title="MALAY",Astro Oasis HD
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6725
 #EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="Astro Warna HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="MALAY",Astro Warna HD
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6740
 #EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="Astro Citra HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="MALAY",Astro Citra HD
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/7267
 #EXTINF:-1 tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD" tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg" group-title="MALAY",Astro Ceria HD
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6715
 #EXTINF:-1 tvg-id="Naura HD" tvg-name="Naura HD" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="MALAY",Naura HD
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6724
 #EXTINF:-1 tvg-id="Go Shop 111" tvg-name="Go Shop 111" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="MALAY",Go Shop 111
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:-1 tvg-id="Astro Rania HD" tvg-name="Astro Rania HD" tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="MALAY",Astro Rania HD
@@ -81,6 +81,16 @@ http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="Astro Quan Jia HD" tvg-name="Astro Quan Jia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" group-title="CHINESE",Astro Quan Jia HD
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-id="ASTRO AOD 351 HD" tvg-name="ASTRO AOD 351 HD" tvg-logo="http://tvmalaysia.cc/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="CHINESE",ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc/624850/624850/6702
+#EXTINF:-1 tvg-id="ASTRO AOD 352 HD" tvg-name="ASTRO AOD 352 HD" tvg-logo="http://tvmalaysia.cc/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="CHINESE",ASTRO AOD 352 HD
+http://iptv.tvmalaysia.cc/624850/624850/6703
+#EXTINF:-1 tvg-id="ASTRO AOD 353 HD" tvg-name="ASTRO AOD 353 HD" tvg-logo="http://tvmalaysia.cc/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="CHINESE",ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc/624850/624850/6704
+#EXTINF:-1 tvg-id="ASTRO AOD 354 HD" tvg-name="ASTRO AOD 354 HD" tvg-logo="http://tvmalaysia.cc/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="CHINESE",ASTRO AOD 354 HD
+http://iptv.tvmalaysia.cc/624850/624850/6705
+#EXTINF:-1 tvg-id="ASTRO AOD 355 HD" tvg-name="ASTRO AOD 355 HD" tvg-logo="http://tvmalaysia.cc/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="CHINESE",ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc/624850/624850/6706
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="MOVIES",AXN HD
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png" group-title="MOVIES",Celestial Movies HD
@@ -88,7 +98,7 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-id="Hits Movies HD" tvg-name="Hits Movies HD" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png" group-title="MOVIES",Hits Movies HD
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:-1 tvg-id="BOO HD" tvg-name="BOO HD" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="MOVIES",BOO HD
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/8872
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" group-title="MOVIES",Cinemax HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinema World HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES",Cinema World HD
@@ -111,7 +121,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 http://185.180.221.194:8278/streams/d/KiX/playlist.m3u8
 #EXTINF:-1 tvg-id="Red By HBO" tvg-name="Red By HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg" group-title="MOVIES",Red By HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WOW TVWOW TV" tvg-logo="https://i.postimg.cc/qBX1YMrs/WOW-TV.png" group-title="MOVIES",WOW TV
+#EXTINF:-1 tvg-id="" tvg-name="WOW TV" tvg-logo="https://i.postimg.cc/qBX1YMrs/WOW-TV.png" group-title="MOVIES",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1 tvg-id="Asiancrush" tvg-name="Asiancrush" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="KOREA/JAPAN",Asiancrush
 https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
@@ -126,13 +136,13 @@ http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KPOP TV" tvg-logo="https://www.logolynx.com/images/logolynx/7f/7f24c9cd254692c663c9f98f4927a8c6.png" group-title="KOREA/JAPAN",KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-logo="https://telegra.ph/file/d42f0069da7ecd9ec0d5f.jpg" group-title="NEWS",Astro Awani
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6714
 #EXTINF:-1 tvg-id="BERNAMA" tvg-name="BERNAMA" tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png" group-title="NEWS",BERNAMA
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6750
 #EXTINF:-1 tvg-id="CNN HD" tvg-name="CNN HD" tvg-logo="https://telegra.ph/file/afc49d17553b4c2c254c6.png" group-title="NEWS",CNN HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6767
 #EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="Al Jazeera English HD" tvg-logo="https://telegra.ph/file/4464ad844aac36ae36079.png" group-title="NEWS",Al Jazeera English HD
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6694
 #EXTINF:-1 tvg-id="Sky News HD" tvg-name="Sky News HD" tvg-logo="https://telegra.ph/file/61de481bd9f75a55d936d.png" group-title="NEWS",Sky News HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6826
 #EXTINF:-1 tvg-id="CNA HD" tvg-name="CNA HD" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png" group-title="NEWS",CNA HD
@@ -143,10 +153,14 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6751
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6692
 #EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK World Japan" tvg-logo="https://www.logolynx.com/images/logolynx/20/204ab75f6fdce64b19dacbf5cc54fe1f.jpeg" group-title="NEWS",NHK World Japan
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="DISCOVERY",Crime & Investigation HD
-http://185.180.221.194:8278/streams/d/Ci/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="" group-title="DISCOVERY",ABC Australia
+http://iptv.tvmalaysia.cc/624850/624850/6692
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://telegra.ph/file/4cc5697a84171e3e8991d.jpg" group-title="DISCOVERY",Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Network HD" tvg-logo="" group-title="DISCOVERY",Asian Food Network HD
+http://iptv.tvmalaysia.cc/624850/624850/6693
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="DISCOVERY",Crime & Investigation HD
+http://185.180.221.194:8278/streams/d/Ci/playlist.m3u8
 #EXTINF:-1 tvg-id="Hello HD" tvg-name="Hello HD" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg" group-title="DISCOVERY",Hello HD
 http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="https://i.postimg.cc/G3kv9PWV/History.jpg" group-title="DISCOVERY",History HD
