@@ -471,13 +471,48 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-ID="AXN.Int" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="MOVIES",AXN
+#EXTINF:-1 tvg-ID="AXN HD" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="MOVIES",AXN HD
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-ID="Fox Movie HD" tvg-logo="https://telegra.ph/file/f4a09bf4f1d490d221850.png" group-title="MOVIES",Fox Movie HD
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-ID="Fox Action Movies HD" tvg-logo="https://telegra.ph/file/8b270258f61fe4bda1832.png" group-title="MOVIES",Fox Action Movies HD
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-ID="Fox Family Movies HD" tvg-logo="https://telegra.ph/file/8b270258f61fe4bda1832.png" group-title="MOVIES",Fox Family Movies HD
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-name="Warner TV HD" tvg-id="Warner TV HD" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="MOVIES",Warner TV HD CH712
+#EXTINF:-1 tvg-name="Warner TV HD" tvg-id="Warner TV HD" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="MOVIES",Warner TV HD
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+
+ENTERTAINMENT
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-ID="Fox HD" tvg-logo="https://i.ibb.co/jZ8kfkC/ryey.png" group-title="MOVIES",Fox HD
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-ID="FOX Crime" tvg-logo="https://i.ibb.co/mJgZW9T/uuuk.png" group-title="MOVIES",FOX Crime
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-ID="FOXlife HD" tvg-logo="https://telegra.ph/file/988b815bc89e4bad0c259.png" group-title="MOVIES",FOXlife HD
+https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
+
 
 
 DISCOVERY
@@ -492,7 +527,10 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mp
 #EXTINF:-1 tvg-name="Nat Geo People HD" tvg-id="Nat Geo People HD" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="DISCOVERY",Nat Geo People HD CH710
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZmMyMTNkYmMtNTM4MS0zMjc3LWIzMGItZWEyMTA1YTI1MmRl
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
+http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
 
 RADIO
 
@@ -514,8 +552,6 @@ http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yhJJMEVCrU.jpg" group-title="RADIO", Klasik Nasional FM
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yhJJMEVCrU.jpg" group-title="RADIO", Klasik Nasional FM
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
 
@@ -524,26 +560,6 @@ https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm
 
 
 ---------------------------------
-
-#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSportHD 1
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
-#http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSportHD 2
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
-#http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSportHD 3
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
-#http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSportHD 4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport5HD" group-title="SPORTS" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",Bein Max
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
-
-
 
 
 
