@@ -531,9 +531,10 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mp
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZmMyMTNkYmMtNTM4MS0zMjc3LWIzMGItZWEyMTA1YTI1MmRl
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MjdkMTY1ZDEtMjgzYi0zMjRmLWFlY2EtOTUwMWZmNWM1MjM1
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
+
 
 RADIO
 
