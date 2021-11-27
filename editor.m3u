@@ -125,6 +125,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 #EXTINF:-1 tvg-id="Red By HBO" tvg-name="Red By HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg" group-title="MOVIES",Red By HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6797
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="ENTERTAINMENT",AXN HD
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/204
 #EXTINF:-1 tvg-id="DMAX HD" tvg-name="DMAX HD" tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png" group-title="ENTERTAINMENT",DMAX HD
