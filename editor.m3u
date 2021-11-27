@@ -18,17 +18,17 @@ http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png" group-title="MALAY",TV9
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/3286
 #EXTINF:-1 tvg-id="Astro Ria HD" tvg-name="Astro Ria HD" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="MALAY",Astro Ria HD
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/11
+http://iptv.tvmalaysia.cc:80/624850/624850/6730
 #EXTINF:-1 tvg-id="Astro Prima HD" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="MALAY",Astro Prima HD
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/176
+http://iptv.tvmalaysia.cc:80/624850/624850/6727
 #EXTINF:-1 tvg-id="Astro Oasis HD" tvg-name="Astro Oasis HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MALAY",Astro Oasis HD
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/175
+http://iptv.tvmalaysia.cc:80/624850/624850/6725
 #EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="Astro Warna HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="MALAY",Astro Warna HD
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/10
+http://iptv.tvmalaysia.cc:80/624850/624850/6740
 #EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="Astro Citra HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="MALAY",Astro Citra HD
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/172
+http://iptv.tvmalaysia.cc:80/624850/624850/7267
 #EXTINF:-1 tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD" tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg" group-title="MALAY",Astro Ceria HD
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/177
+http://iptv.tvmalaysia.cc:80/624850/624850/6715
 #EXTINF:-1 tvg-id="Naura HD" tvg-name="Naura HD" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="MALAY",Naura HD
 http://50.7.161.82:8277/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="Go Shop 111" tvg-name="Go Shop 111" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="MALAY",Go Shop 111
@@ -48,6 +48,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" tvg-logo="https://telegra.ph/file/c646c77fc8b4f4a532b21.png" group-title="MALAY",TV Okey
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-id="Awesome TV" tvg-name="Awesome TV" tvg-logo="https://telegra.ph/file/dcfe3ac04822ae28becdd.png" group-title="MALAY",Awesome TV
+http://iptv.tvmalaysia.cc:80/624850/624850/9016
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/180
 #EXTINF:-1 tvg-id="Drama Sangat" tvg-name="Drama Sangat" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png" group-title="MALAY",Drama Sangat
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/3290
@@ -196,28 +197,32 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6707
 #EXTINF:-1 tvg-id="Astro Arena 2 HD" tvg-name="Astro Arena 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORTS",Astro Arena 2 HD
 http://iptv.tvmalaysia.cc:80/624850/624850/9028
 #EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="SPORTS",Astro SuperSport HD
-http://iptv.tvmalaysia.cc/624850/624850/9024
+http://iptv.tvmalaysia.cc:80/624850/624850/9024
 #EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="SPORTS",Astro SuperSport 2 HD
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/624850/624850/9025
 #EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORTS",Astro SuperSport 3 HD
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4991
+http://iptv.tvmalaysia.cc:80/624850/624850/9020
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="SPORTS",Astro SuperSport 4 HD
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/166
+http://iptv.tvmalaysia.cc:80/624850/624850/9026
 #EXTINF:-1 tvg-id="Astro SuperSport 5 HD" tvg-name="Astro SuperSport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="SPORTS",Astro SuperSport 5 HD
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/3200
+http://iptv.tvmalaysia.cc:80/624850/624850/9029
 #EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="SPORTS",UFC
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/183
 #EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="SPORTS",beIN Sports HD
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/169
+http://iptv.tvmalaysia.cc:80/624850/624850/6749
 #EXTINF:-1 tvg-id="beIN Sport MAX HD" tvg-name="beIN Sport MAX HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="SPORTS",beIN Sport MAX HD
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5012
+http://iptv.tvmalaysia.cc:80/624850/624850/6748
+#EXTINF:-1 tvg-id="beIN Sport MAX HD" tvg-name="beIN Sport MAX 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="SPORTS",beIN Sport MAX 2 HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7195
 #EXTINF:-1 tvg-id="Eurosport HD" tvg-name="Eurosport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SPORTS",Eurosport HD
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/6439
 #EXTINF:-1 tvg-id="WWE Network HD" tvg-name="WWE Network HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" group-title="SPORTS",WWE Network HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6849
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="Golf Channel HD" tvg-name="Golf Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="SPORTS",Golf Channel HD
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/311
+http://iptv.tvmalaysia.cc:80/624850/624850/6796
 #EXTINF:-1 tvg-id="Astro Cricket HD" tvg-name="Astro Cricket HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="SPORTS",Astro Cricket HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6717
 http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="DUBAI SPORT FHD" tvg-name="DUBAI SPORT FHD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png" group-title="SPORTS",DUBAI SPORT FHD
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
