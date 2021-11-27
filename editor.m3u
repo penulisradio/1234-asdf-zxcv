@@ -17,6 +17,7 @@ http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/3287
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MALAY",TV6
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://telegra.ph/file/e329e809e30ac4c5c8414.png" group-title="MALAY",NTV7
+http://iptv.tvmalaysia.cc:80/624850/624850/8922
 http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png" group-title="MALAY",TV9
 http://iptv.tvmalaysia.cc:80/624850/624850/7185
@@ -118,26 +119,32 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="Hits Movies HD" tvg-name="Hits Movies HD" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png" group-title="MOVIES",Hits Movies HD
 http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:-1 tvg-id="BOO HD" tvg-name="BOO HD" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="MOVIES",BOO HD
+
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" group-title="MOVIES",Cinemax HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/65
+http://iptv.tvmalaysia.cc:80/624850/624850/7062
 #EXTINF:-1 tvg-id="Cinema World HD" tvg-name="Cinema World HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES",Cinema World HD
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD
-http://iptv.tvmalaysia.cc/624850/624850/6797
+http://iptv.tvmalaysia.cc:80/624850/624850/7067
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://www.logolynx.com/images/logolynx/7a/7a20fe25774fa87b31f9533077f15fe7.png" group-title="MOVIES",HBO Family
+http://iptv.tvmalaysia.cc:80/624850/624850/7070
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png" group-title="MOVIES",HBO Hits
+http://iptv.tvmalaysia.cc:80/624850/624850/7068
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature
+http://iptv.tvmalaysia.cc:80/624850/624850/7069
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 #EXTINF:-1 tvg-id="Red By HBO" tvg-name="Red By HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg" group-title="MOVIES",Red By HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
 http://iptv.tvmalaysia.cc/624850/624850/6797
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="ENTERTAINMENT",AXN HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7223
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/204
 #EXTINF:-1 tvg-id="DMAX HD" tvg-name="DMAX HD" tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png" group-title="ENTERTAINMENT",DMAX HD
+http://iptv.tvmalaysia.cc:80/624850/624850/8780
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/3296
 #EXTINF:-1 tvg-id="KIX HD" tvg-name="KIX HD" tvg-logo="https://www.logolynx.com/images/logolynx/04/04456c32169d49565252224d67d1e40c.jpeg" group-title="ENTERTAINMENT",KIX HD
 http://210.210.155.35/session/0d4eba66-eb87-11eb-b7f4-b82a72d63267/dr9445/h/h07/01.m3u8
@@ -543,7 +550,10 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b
 
 #EXTINF:-1 group-title="US ช่องคลอด"tvg-logo="ช่องคลอด",ช่องคลอด26
 http://jlwmedia.xyz/play/Tj3P7HJLHu7eBOzrb6D3DvAz7afs3DjRY3cWpX0iBY4/ts
-
+#EXTINF:-1 xui-id="2578133" tvg-id="" tvg-name="XXX: Daughter Swap" tvg-logo="" group-title="FOR ADULTS",XXX: Daughter Swap
+http://jlwmedia.xyz:80/play/K6_Mzswpo4oWTLkOsFvgm9P6lfswhUQ8AOW5OmUTKdpUDGm0JfabxXs9j9M0rCWq/ts
+#EXTINF:-1 xui-id="2075874" tvg-id="" tvg-name="XXX: 21 Naturals" tvg-logo="" group-title="FOR ADULTS",XXX: 21 Naturals
+http://jlwmedia.xyz:80/play/K6_Mzswpo4oWTLkOsFvgm2bAh1rluXLu-5ZIOx6mtcgGcGzKKdDO8G7CFeSLvvxU/ts
 ——————————————————————————————————
 
 
