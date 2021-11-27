@@ -36,7 +36,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:-1 tvg-id="Astro Rania HD" tvg-name="Astro Rania HD" tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="MALAY",Astro Rania HD
 http://iptv.tvmalaysia.cc/624850/624850/6729
 #EXTINF:-1 tvg-id="Astro Aura HD" tvg-name="Astro Aura HD" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png" group-title="MALAY",Astro Aura HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+http://iptv.tvmalaysia.cc/624850/624850/6713
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png" group-title="MALAY",Al-Hijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-id="Astro Go Shop RUUMA" tvg-name="Go Shop 118" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png" group-title="MALAY",Go Shop 118
@@ -62,9 +62,9 @@ https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1 tvg-id="Astro Vinmeen HD" tvg-name="Astro Vinmeen HD" tvg-logo="https://telegra.ph/file/ec1b2e4750ff1c7af2546.png" group-title="INDIAN",Astro Vinmeen HD
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4995
 #EXTINF:-1 tvg-id="Makkal TV" tvg-name="Makkal TV" tvg-logo="https://telegra.ph/file/1ac3f6072dc96481dc6d8.png" group-title="INDIAN",Makkal TV
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
+http://iptv.tvmalaysia.cc/624850/624850/6806
 #EXTINF:-1 tvg-id="Sun TV" tvg-name="Sun TV" tvg-logo="https://telegra.ph/file/fda662b3de9bdd84bf978.png" group-title="INDIAN",Sun TV
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6733
+http://iptv.tvmalaysia.cc/624850/624850/6733
 #EXTINF:-1 tvg-id="Chutti TV" tvg-name="Chutti TV" tvg-logo="https://telegra.ph/file/00b8b26476ecbcfc7e7d7.png" group-title="INDIAN",Chutti TV
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6762
 #EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" tvg-logo="https://telegra.ph/file/a00e8122bd692553677ef.png" group-title="INDIAN",Adithya
