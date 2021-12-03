@@ -60,6 +60,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 http://iptv.tvmalaysia.cc:80/624850/624850/9016
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/180
 #EXTINF:-1 tvg-id="Drama Sangat" tvg-name="Drama Sangat" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png" group-title="MALAY",Drama Sangat
+https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0rXpMLnZuUeJLK9_yTgNV9M)/dm/3/x6zvnex/s/live-1.m3u8
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/3290
 #EXTINF:-1 tvg-id="TV IKIM" tvg-name="TV IKIM" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png" group-title="MALAY",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
