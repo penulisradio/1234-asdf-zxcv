@@ -12,37 +12,36 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 http://iptv.tvmalaysia.cc:80/624850/624850/7178
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="MALAY",TV3
-http://iptv.tvmalaysia.cc:80/624850/624850/7266
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/3287
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MALAY",TV6
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://telegra.ph/file/e329e809e30ac4c5c8414.png" group-title="MALAY",NTV7
 http://iptv.tvmalaysia.cc:80/624850/624850/8922
 http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png" group-title="MALAY",TV9
-http://iptv.tvmalaysia.cc:80/624850/624850/7185
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/3286
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+#EXTINF:-1 tvg-id="Drama Sangat" tvg-name="Drama Sangat" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="MALAY",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1 tvg-id="Astro Ria HD" tvg-name="Astro Ria HD" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="MALAY",Astro Ria HD
-https://nonton.site:8443/blink4/frknnyvc9e/37332
+http://139.99.71.104:8888/live/blink14/98bi1zi8qq/37332.ts
 #EXTINF:-1 tvg-id="Astro Prima HD" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="MALAY",Astro Prima HD
-http://iptv.tvmalaysia.cc:80/624850/624850/6727
+http://139.99.71.104:8888/live/blink4/frknnyvc9e/37333.ts
 #EXTINF:-1 tvg-id="Astro Oasis HD" tvg-name="Astro Oasis HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MALAY",Astro Oasis HD
-http://iptv.tvmalaysia.cc:80/624850/624850/6725
+http://139.99.71.104:8888/live/blink5/uqf56o19wd/37334.ts
 #EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="Astro Warna HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="MALAY",Astro Warna HD
 http://iptv.tvmalaysia.cc:80/624850/624850/6740
 #EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="Astro Citra HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="MALAY",Astro Citra HD
-http://iptv.tvmalaysia.cc:80/624850/624850/7267
+http://urtv.cc:80/penang063/penang063/7267
 #EXTINF:-1 tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD" tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg" group-title="MALAY",Astro Ceria HD
 http://iptv.tvmalaysia.cc:80/624850/624850/6715
 #EXTINF:-1 tvg-id="Naura HD" tvg-name="Naura HD" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="MALAY",Naura HD
-http://iptv.tvmalaysia.cc:80/624850/624850/6724
-http://50.7.161.82:8277/streams/d/Naura/playlist.m3u8
+http://139.99.71.104:8888/live/blink7/qerj2ama3p/37336.ts
 #EXTINF:-1 tvg-id="Go Shop 111" tvg-name="Go Shop 111" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="MALAY",Go Shop 111
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:-1 tvg-id="Astro Rania HD" tvg-name="Astro Rania HD" tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="MALAY",Astro Rania HD
-http://iptv.tvmalaysia.cc/624850/624850/6729
+http://139.99.71.104:8888/live/blink12/9x21w1sniq/37467.ts
 #EXTINF:-1 tvg-id="Astro Aura HD" tvg-name="Astro Aura HD" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png" group-title="MALAY",Astro Aura HD
-http://iptv.tvmalaysia.cc/624850/624850/6713
+http://139.99.71.104:8888/live/blink14/98bi1zi8qq/37468.ts
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png" group-title="MALAY",Al-Hijrah
 http://iptv.tvmalaysia.cc:80/624850/624850/6834
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
