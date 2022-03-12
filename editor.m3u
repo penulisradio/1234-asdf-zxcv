@@ -12,12 +12,12 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 http://iptv.tvmalaysia.cc:80/624850/624850/7178
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="MALAY",TV3
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MALAY",TV6
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://telegra.ph/file/e329e809e30ac4c5c8414.png" group-title="MALAY",NTV7
-http://iptv.tvmalaysia.cc:80/624850/624850/8922
-http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png" group-title="MALAY",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTINF:-1 tvg-id="Drama Sangat" tvg-name="Drama Sangat" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="MALAY",Drama Sangat
@@ -29,9 +29,9 @@ http://139.99.71.104:8888/live/blink4/frknnyvc9e/37333.ts
 #EXTINF:-1 tvg-id="Astro Oasis HD" tvg-name="Astro Oasis HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MALAY",Astro Oasis HD
 http://139.99.71.104:8888/live/blink5/uqf56o19wd/37334.ts
 #EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="Astro Warna HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="MALAY",Astro Warna HD
-http://iptv.tvmalaysia.cc:80/624850/624850/6740
+https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019616
 #EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="Astro Citra HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="MALAY",Astro Citra HD
-http://urtv.cc:80/penang063/penang063/7267
+https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019611
 #EXTINF:-1 tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD" tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg" group-title="MALAY",Astro Ceria HD
 http://iptv.tvmalaysia.cc:80/624850/624850/6715
 #EXTINF:-1 tvg-id="Naura HD" tvg-name="Naura HD" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="MALAY",Naura HD
