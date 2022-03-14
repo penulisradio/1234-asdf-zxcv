@@ -43,8 +43,7 @@ http://139.99.71.104:8888/live/blink12/9x21w1sniq/37467.ts
 #EXTINF:-1 tvg-id="Astro Aura HD" tvg-name="Astro Aura HD" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png" group-title="MALAY",Astro Aura HD
 http://139.99.71.104:8888/live/blink14/98bi1zi8qq/37468.ts
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png" group-title="MALAY",Al-Hijrah
-http://iptv.tvmalaysia.cc:80/624850/624850/6834
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 #EXTINF:-1 tvg-id="Astro Go Shop RUUMA" tvg-name="Go Shop 118" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png" group-title="MALAY",Go Shop 118
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 #EXTINF:-1 tvg-id="Go Shop GAAYA" tvg-name="Go Shop GAAYA" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png" group-title="MALAY",Go Shop GAAYA
@@ -286,6 +285,13 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="UNIFI 2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Unifi_logo_2017.png/1598px-Unifi_logo_2017.png" group-title="Sports", Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="ASTRO MALAYSIA",ASTRO PRIMA
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+
+
 
 ________________________________________________________________________________________
 
