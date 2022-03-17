@@ -157,28 +157,51 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hits Movies HD" tvg-name="Hits Movies HD" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png" group-title="MOVIES",Hits Movies HD
 http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
-#EXTINF:-1 tvg-id="BOO HD" tvg-name="BOO HD" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="MOVIES",BOO HD
-http://iptv.tvmalaysia.cc/624850/624850/8872
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" group-title="MOVIES",Cinemax HD
-http://iptv.tvmalaysia.cc:80/624850/624850/7062
-#EXTINF:-1 tvg-id="Cinema World HD" tvg-name="Cinema World HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES",Cinema World HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+#EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIE1",BOO HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1b0fbb95b8d4ab19d3ea816be9683310&key=560e1ef299aa9a4352e70ed14f8839b9
+#EXTINF:-1 tvg-id="412" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="MOVIE1",CINEMAX HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="MOVIE1",CINEMA WORLD HD
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 http://210.210.155.35/dr9445/h/h04/01.m3u8
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD
-http://iptv.tvmalaysia.cc:80/624850/624850/7067
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://www.logolynx.com/images/logolynx/7a/7a20fe25774fa87b31f9533077f15fe7.png" group-title="MOVIES",HBO Family
-http://iptv.tvmalaysia.cc:80/624850/624850/7070
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png" group-title="MOVIES",HBO Hits
-http://iptv.tvmalaysia.cc:80/624850/624850/7068
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature
-http://iptv.tvmalaysia.cc:80/624850/624850/7069
-https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=897aa91ee5958140b5ebd8076cced310&key=453b01beb73c78bd6f8ad380f8a06a8e
+#EXTINF:-1 tvg-id="411" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="MOVIE1",HBO HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8cfb499a75630eca1d50e584f58e9310&key=0a11d637ad2eaa1f7a75f42b7fc72b30
+#EXTINF:-1 tvg-id="414" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="MOVIE1",HBO FAMILY
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2d8d9b7ed94fad6e56f1642504605b10&key=cf881ed230797c106f8e6ac843d797f3
+#EXTINF:-1 tvg-id="415" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="MOVIE1",HBO HITS
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="MOVIE1",HBO SIGNATURE
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+
 #EXTINF:-1 tvg-id="Red By HBO" tvg-name="Red By HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg" group-title="MOVIES",Red By HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
 http://iptv.tvmalaysia.cc/624850/624850/6797
+
+
+
 
 ---------------------------ENTERTAINMENT----------------------------------------------------------
 
@@ -247,7 +270,7 @@ https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 
 
 
-SPORTS
+-----------------------------------SPORTS----------------------------------------------
 
 #EXTINF:-1 tvg-id="UNIFI 1" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Unifi_logo_2017.png/1598px-Unifi_logo_2017.png" group-title="SPORTS", Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -295,6 +318,11 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="DUBAI SPORT 3 FHD" tvg-name="DUBAI SPORT 3 FHD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" group-title="SPORTS",DUBAI SPORT 3 FHD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+
+
+----------------------------KIDS------------------------------------------------------------
+
 #EXTINF:-1 tvg-id="Animax HD" tvg-name="Animax HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/419_144.png" group-title="KIDS",Animax HD
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus HD" tvg-logo="https://i.ibb.co/0KcgzHj/ANIPLUS.png" group-title="KIDS",Aniplus HD
@@ -329,8 +357,6 @@ http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------
-
-UNIFI TV
 
 
 
