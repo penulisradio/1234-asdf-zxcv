@@ -90,7 +90,6 @@ https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 http://iptv.tvmalaysia.cc:80/624850/624850/6718
 http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
 #EXTINF:-1 tvg-id="251" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="MALAY",ASTRO BOLLYONE
@@ -166,6 +165,11 @@ http://210.210.155.35/dr9445/h/h16/01.m3u8
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-id="HITS HD" tvg-name="HITS HD" tvg-logo="https://i.ibb.co/D771crF/HITS.png" group-title="ENTERTAINMENT",HITS HD
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+
+
+
+-------------------------------------DISCOVERY------------------------------------------
+
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://telegra.ph/file/4cc5697a84171e3e8991d.jpg" group-title="DISCOVERY",Animal Planet HD
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/713
 #EXTINF:-1 tvg-id="Asian Food Network HD" tvg-name="Asian Food Network HD" tvg-logo="https://i.ibb.co/7r4PJqy/bsd.png" group-title="DISCOVERY",Asian Food Network HD
@@ -176,42 +180,56 @@ http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/4084
 https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
 #EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="DISCOVERY",Love Nature 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+
+--------------------------------------KOREA/JAPAN-----------------------------
+
 #EXTINF:-1 tvg-id="Asiancrush" tvg-name="Asiancrush" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="KOREA/JAPAN",Asiancrush
 https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=76ac661111eadf6ffde0dcdbd16fcb10&key=24b391c868de298804403a024e6ce7de
+#EXTINF:-1 tvg-id="392" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="KOREA/JAPAN",KBS WORLD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
+
 #EXTINF:-1 tvg-id="KBS World HD" tvg-name="KBS World HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" group-title="KOREA/JAPAN",KBS World HD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="Oh!K HD" tvg-name="Oh!K HD" tvg-logo="https://telegra.ph/file/a14e7747aa9c336fc31d6.jpg" group-title="KOREA/JAPAN",Oh!K HD
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 tvg-id="ONE HD" tvg-name="ONE HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="KOREA/JAPAN",ONE HD
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/3239
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
+#EXTINF:-1 tvg-id="394" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OhK_v1.png" group-title="KOREA/JAPAN",OH!K
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
+#EXTINF:-1 tvg-id="393" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="KOREA/JAPAN",ONE
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c1269a58571f4528d585fdccbf8fa510&key=615d2dcc24a8fa6a7342185a6fcb1615
+#EXTINF:-1 tvg-id="395" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="KOREA/JAPAN",TVN HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 #EXTINF:-1 tvg-id="tvN HD " tvg-name="tvN HD" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="KOREA/JAPAN",tvN HD
 http://210.210.155.35/dr9445/h/h20/01.m3u8
 #EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN Movies HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREA/JAPAN",tvN Movies HD
 http://210.210.155.35/dr9445/h/h21/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
+#EXTINF:-1 tvg-id="396" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="KOREA/JAPAN",K PLUS
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+
 #EXTINF:-1 tvg-id="K+" tvg-name="K+" tvg-logo="https://i.ibb.co/xj5SPZj/KPLUS.png" group-title="KOREA/JAPAN",K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KPOP TV" tvg-logo="https://www.logolynx.com/images/logolynx/7f/7f24c9cd254692c663c9f98f4927a8c6.png" group-title="KOREA/JAPAN",KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/x64s18m/GEM.png" group-title="KOREA/JAPAN",Sony GEM TV
 http://210.210.155.35/uq2663/h/h19/01.m3u8
-#EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-logo="https://telegra.ph/file/d42f0069da7ecd9ec0d5f.jpg" group-title="NEWS",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 tvg-id="BERNAMA" tvg-name="BERNAMA" tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png" group-title="NEWS",BERNAMA
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN HD" tvg-name="CNN HD" tvg-logo="https://telegra.ph/file/afc49d17553b4c2c254c6.png" group-title="NEWS",CNN HD
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="Al Jazeera English HD" tvg-logo="https://telegra.ph/file/4464ad844aac36ae36079.png" group-title="NEWS",Al Jazeera English HD
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="Sky News HD" tvg-name="Sky News HD" tvg-logo="https://telegra.ph/file/61de481bd9f75a55d936d.png" group-title="NEWS",Sky News HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6826
-#EXTINF:-1 tvg-id="CNA HD" tvg-name="CNA HD" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png" group-title="NEWS",CNA HD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV HD" tvg-name="Bloomberg TV HD" tvg-logo="https://telegra.ph/file/1f5381e3ba6c20777c521.png" group-title="NEWS",Bloomberg TV HD
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="ABC Australia" tvg-name="ABC Australia" tvg-logo="https://telegra.ph/file/a1c53683d352a9c3ed748.png" group-title="NEWS",ABC Australia
-https://c.mjh.nz/101002210221/
-#EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK World Japan" tvg-logo="https://www.logolynx.com/images/logolynx/20/204ab75f6fdce64b19dacbf5cc54fe1f.jpeg" group-title="NEWS",NHK World Japan
-https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://nhkworldpremium.com/img/common/logo.png" group-title="KOREA/JAPAN",NHK WORLD HD
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 
 
@@ -275,12 +293,27 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/inde
 
 
 
+--------------------------NEWS-------------------------------------------
 
 
-
-
-
-
+#EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-logo="https://telegra.ph/file/d42f0069da7ecd9ec0d5f.jpg" group-title="NEWS",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 tvg-id="BERNAMA" tvg-name="BERNAMA" tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png" group-title="NEWS",BERNAMA
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN HD" tvg-name="CNN HD" tvg-logo="https://telegra.ph/file/afc49d17553b4c2c254c6.png" group-title="NEWS",CNN HD
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="Al Jazeera English HD" tvg-logo="https://telegra.ph/file/4464ad844aac36ae36079.png" group-title="NEWS",Al Jazeera English HD
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="Sky News HD" tvg-name="Sky News HD" tvg-logo="https://telegra.ph/file/61de481bd9f75a55d936d.png" group-title="NEWS",Sky News HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6826
+#EXTINF:-1 tvg-id="CNA HD" tvg-name="CNA HD" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png" group-title="NEWS",CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV HD" tvg-name="Bloomberg TV HD" tvg-logo="https://telegra.ph/file/1f5381e3ba6c20777c521.png" group-title="NEWS",Bloomberg TV HD
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="ABC Australia" tvg-name="ABC Australia" tvg-logo="https://telegra.ph/file/a1c53683d352a9c3ed748.png" group-title="NEWS",ABC Australia
+https://c.mjh.nz/101002210221/
+#EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK World Japan" tvg-logo="https://www.logolynx.com/images/logolynx/20/204ab75f6fdce64b19dacbf5cc54fe1f.jpeg" group-title="NEWS",NHK World Japan
+https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 
 
 
