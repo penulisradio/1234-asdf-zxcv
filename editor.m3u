@@ -1038,607 +1038,98 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w
 #EXTINF:-1 group-title="FOR ADULTS"tvg-logo="ช่องคลอด",ช่องคลอด25
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 
-
-
-
-
-
-
-
-
-
-
-#EXTM3U url-tvg="https://stavol.my.id/epg/epg.xml","https://macan.tv/xmltv.php?username=epg&password=epg"
-
-
-
-<----------------------------------- Movies --------------------------------------->
-
-
-
-<----------------------------------- Sports --------------------------------------->
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mncsports.png" group-title="Sports",MNC Sports
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aSXmtqg.png" group-title="Sports",TVRI Sport HD
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/fightsport.png" group-title="Sports",Fight Sports
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="Sports",beIN Sports 1
-https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="Sports",beIN Sports 2
-https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-
-#EXTINF:-1  tvg-id="ext" group-title="Sports" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",beIN Sports Xtra
-https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-6.png" group-title="Sports",FOX Sports
-https://list.iptvcat.com/my_list/s/f7443eefb3ca814d516ce457cd2d1b56.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/foxsports1.png" group-title="Sports",FOX Sports 1
-https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/foxsports2.png" group-title="Sports",FOX Sports 2
-https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/foxsports3.png" group-title="Sports",FOX Sports 3
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
-
-#EXTINF:-1  tvg-id="ext" group-title="Sports" tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png",Red Bull TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/soccerchannel.png" group-title="Sports",Soccer Channel
-https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.arax.md/assets/channels/48.png" group-title="Sports",Viasat Sports
-http://persik.tv/stream/3602/287583/10249.m3u8
-
-<----------------------------------- Kids --------------------------------------->
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Disney.uk" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/disneychannel.png" group-title="Kids",Disney Channel
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="DisneyJunior.uk" tvg-name="" tvg-logo="https://i.imgur.com/tx8XjmM.png" group-title="Kids",Disney Junior
-https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="DisneyXD.uk" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/disneyxd.png" group-title="Kids",Disney XD
-https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BW7GtXU.png" group-title="Kids",Cartoon Network
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/boomerang.png" group-title="Kids",Boomerang
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/animax.png" group-title="Kids",Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/full/306-3060218_aniplus-aniplus-logo-png.png" group-title="Kids",Aniplus
-http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/nickelodeon.png" group-title="Kids",Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/nickjr.png" group-title="Kids",Nick Junior
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
-
-#EXTINF:-1  tvg-id="ext" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2020/09/03/4c26a640-ede0-11ea-bbdd-775d9efe2958_original.png",TOONEE
-http://61.19.242.134/feed/202105171329/LC23/index.m3u8
-
-#EXTINF:-1  tvg-id="ext" group-title="Kids" tvg-logo="http://heatherlopezenterprises.com/wp-content/uploads/2016/02/zoomoo-logo-from-site.png",ZOO MOO
-http://61.19.242.134/feed/202105171329/LC38/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-id="ext" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png",spacetoon
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
-#EXTINF:-1  tvg-id="EBS.us" group-title="Kids" tvg-logo="https://seeklogo.com/images/E/ebs-kids-logo-D07C2E2514-seeklogo.com.png",EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
-#EXTINF:-1  tvg-id="MINIMINI.pl" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Minimini_HD_web.png/revision/latest/scale-to-width-down/250?cb=20210516160333",MiniMini +
-http://207.110.52.61:8080/s/hls/5/8668/minimini_258/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-id="ext" group-title="Kids" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Lego-Logo-PNG-Free-Download.png",Lego Toons
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-#EXTINF:-1  tvg-id="ext" group-title="Kids" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/MajidKids.png",Majid Kids
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="ext" group-title="Kids" tvg-logo="https://www.shemaroome.com/assets/social_login/logo.png",Shemaroo Kids
-https://livechannel.shemaroome.com/linearplayout/Kids-linear-channel/chunklist_1280x720_cf.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/miaomi.png" group-title="Kids",MiaoMi
-https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="Kids",BabyTV
-https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/cbeebies.png" group-title="Kids",CBeebies
-https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="Kids",Kids TV
-https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-
-#EXTINF:-1  tvg-id="ext" group-title="Kids" tvg-logo="https://i.dlpng.com/static/png/6916208_preview.png",Spongebob
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-<----------------------------------- Lifestyle --------------------------------------->
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/afn.png" group-title="Lifestyle",AFN
-https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tlc.png" group-title="Lifestyle",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/fmn.png" group-title="Lifestyle",FMN
-https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/hgtv.png" group-title="Lifestyle",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/lifetime.png" group-title="Lifestyle",Lifetime
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/oktv.png" group-title="Lifestyle",OKTV
-https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/visionprime.png" group-title="Lifestyle",Vision Prime
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/ie.png" group-title="Lifestyle",ie
-https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tqLYVU0.png" group-title="Lifestyle",WakuWaku Japan
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/ent.png" group-title="Lifestyle",ent
-https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
-
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Lifestyle",The Pet Collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/master.m3u8
-
-#EXTINF:-1  tvg-id="useephoto" group-title="Lifestyle" tvg-logo="https://i.imgur.com/wc1A4ky.png",Usee Photo
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
-
-#EXTINF:-1  tvg-id="Channel4U.id" group-title="Lifestyle" tvg-logo="https://i.imgur.com/MsmE7UK.png",Channel 4U
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
-
-#EXTINF:-1  tvg-id="ext" group-title="Lifestyle" tvg-logo="https://i.imgur.com/xJg1tsI.png",Digione maxstream
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://liquipedia.net/commons/images/d/d4/DG_Esports_text.png" group-title="Lifestyle",Dunia Games
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
-
-
-<----------------------------------- Entertainment --------------------------------------->
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvn.png" group-title="Entertainment",tvN
-https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvnmovies.png" group-title="Entertainment",tvN Movies
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg" group-title="Entertainment",SONY One
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-#EXTINF:-1  tvg-id="ext" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Sony_gem_asia.png/revision/latest?cb=20160410095411",Sony GEM
-http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
-
-#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="Entertainment",K-Plus
-http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1280px-ION_Plus_logo.svg.png" group-title="Entertainment",Ion Plus
-https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/zeecinema.png" group-title="Entertainment",Zee Cinema
-https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/zeetv.png" group-title="Entertainment",Zee TV
-https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
-
-#EXTINF:-1  tvg-id="ext" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1024px-ViuTV_logo.svg.png",Viu TV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
-
-#EXTINF:-1  tvg-id="ext" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png",KIX
-http://rr1.dens.tv/h/h07/01.m3u8
-
-#EXTINF:-1  tvg-id="ext" group-title="Entertainment" tvg-logo="https://i.postimg.cc/Gpv7q4cY/logo.png",OH!K TV
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-
-#EXTINF:-1  tvg-id="useephoto" group-title="Entertainment" tvg-logo="https://i.imgur.com/drcIzRz.png",Usee Prime
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-
-#EXTINF:-1 tvg-id="DoveChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Entertainment",Dove Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/anhuitv.png" group-title="Entertainment",Anhui TV
-https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/hunantv.png" group-title="Entertainment",Hunan TV
-https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/dragontv.png" group-title="Entertainment",Dragon TV
-https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/jiangsutv.png" group-title="Entertainment",Jiangsu TV
-https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/xingxong.png" group-title="Entertainment",Xingkong TV
-https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
-
-#EXTINF:-1  tvg-id="ext" group-title="Entertainment" tvg-logo="https://i.imgur.com/8kmQzGa.png",Blue Ant Extreme
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-
-
-<----------------------------------- Knowledge --------------------------------------->
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/alk3ahK.png" group-title="Knowledge",History
-https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="SmithsonianChannelAsia.us" tvg-name="" tvg-logo="https://i.imgur.com/wtf0hg5.png" group-title="Knowledge",Smithsonian Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0  tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bpHH6Wj.png" group-title="Knowledge",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/DSCHD/large_white.png" group-title="Knowledge",Discovery Channel
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-
-#EXTINF:-1  tvg-id="ext" group-title="Knowledge" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",Discovery Asia
-http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/BBC%20Earth_0.png" group-title="Knowledge",BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/cgtndoc.png" group-title="Knowledge",CGTN DOCUMENTARY
-https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fwnLPBf.png" group-title="Knowledge",Animal Planet
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Br00WTH.png" group-title="Knowledge",Nat Geo
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Hqw33zC.png" group-title="Knowledge",Nat Geo Wild
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3oYNSBN.png" group-title="Knowledge",Nat Geo People
-http://58.65.171.202:8000/play/10503/index.m3u8
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
-
-#EXTINF:-1 tvg-id="MagellanTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.outdoorsg.com/wp-content/uploads/2015/08/OC_Logo-2017_Primary_REV.png" group-title="Knowledge",Outdoor Channel
-https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
-
-#EXTINF:-1 tvg-id="MagellanTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://magellantv-test-cloudfront.s3.amazonaws.com/images/pages/dreamjobLeaders/section1-logo.png" group-title="Knowledge",Magellan TV 
-https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-
-#EXTINF:-1 tvg-id="RTDocumentary.ru" url-tvg="" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Knowledge",RT Documentary 
-https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Knowledge",NASA TV 
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="Knowledge" , Inwild TV
-https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="STIRRDocurama.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="Knowledge",STIRR Docurama
-https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
-
-#EXTINF:-1 tvg-id="VoyagerDocumentaries.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Knowledge",Voyager Documentaries
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://skymedia.it/wp-content/uploads/2021/09/CI_LOGO_WHITE_NO_BG_CMYK-TM-1.png" group-title="Knowledge",Crime Investigation
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/ifLipl6.png" group-title="Knowledge",Techstorm
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
-
-<----------------------------------- Religi --------------------------------------->
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="http://dusktill.masuk.web.id/img/mekkah.png" group-title="Religi",Mekkah
-https://cllive.itworkscdn.net/ksaquranlive/token=nva=1626667651~dirs=1~hash=0ebf1903916f9c911a7a3/ksaquran.smil/ksaquran_chunks.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Religi",Madinah
-https://cllive.itworkscdn.net/ksasunnalive/token=nva=1626667649~dirs=1~hash=0e85090d9fca5627eb6bc/ksasunna.smil/ksasunna_chunks.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tawaf.png" group-title="Religi",Tawaf TV
-https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/mekkah.png" group-title="Religi",AlQuran Kareem
-https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/muslimtv.png" group-title="Religi",Muslim TV
-https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvmu.png" group-title="Religi",TVMU
-https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tv9.png" group-title="Religi",TV9 NU
-https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
-
-#EXTINF:-1  tvg-id="MTATV.id" group-title="Religi" tvg-logo="http://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png",MTATV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
-
-
-
-
-
-
-<----------------------------------- Music --------------------------------------->
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/zing.png" group-title="Music",Zing
-https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
-
-#EXTINF:-1  tvg-id="ext" group-title="Music" tvg-logo="https://i.imgur.com/Hziy536.png",Prambors
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
-
-#EXTINF:-1  tvg-id="maleo.id" group-title="Music" tvg-logo="https://i.imgur.com/DJA7M8R.png",MALEO
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ppWfdOW.png" group-title="Music",Channel V
-https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="musiktv.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/04/Music_TV_%282020%29.png" group-title="Music",Music TV
-https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-#EXTINF:-1  tvg-id="mtv-rus" group-title="Music" tvg-logo="https://i.imgur.com/Lqhy44V.png",MTV Block Party 
-http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-
-#EXTINF:-1  tvg-id="mtv-rus" group-title="Music" tvg-logo="https://i.imgur.com/hKFctz9.png",MTV Biggest POP
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
-
-#EXTINF:-1  tvg-id="mtv-rus" group-title="Music" tvg-logo="https://i.imgur.com/AiSGzIC.png",MTV Yo!
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-
-#EXTINF:-1  tvg-id="popmusik.id" group-title="Music" tvg-logo="https://i.imgur.com/2DfhUsA.png",POP MUSIK
-http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist_w251378293.m3u8
-
-#EXTINF:-1  tvg-id="mtv-rus" group-title="Music" tvg-logo="https://i.imgur.com/SG6fzFq.png",EBC Musik
-https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-
-#EXTINF:-1  tvg-id="mtv-rus" group-title="Music" tvg-logo="https://i.imgur.com/lm7ToiW.png",Radio M2O
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-
-#EXTINF:-1  tvg-id="ext" group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/466211162627915777/9IN6xYTd_400x400.png",Vevo HipHop
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-
-#EXTINF:-1  tvg-id="Music24.il" group-title="Music" tvg-logo="https://i.imgur.com/YCcPU7K.png",Channel 24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-
-#EXTINF:-1  tvg-id="9XM.in" group-title="Music" tvg-logo="https://i.imgur.com/SRYiN7W.png",9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-#EXTINF:-1  tvg-id="ext" group-title="Music" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingraykaraokeit/logos/3p-logo._CB660813403_.png",STINGRAY KARAOKE
-https://stirr.ott-channels.stingray.com/karaoke/master_1280x720_2000kbps.m3u8
-
-#EXTINF:-1  tvg-id="ext" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png",CMC USA
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
-
-<----------------------------------- XXX Adult------------------------------------>
-
-#EXTINF:-1 tvg-id="A3Bikini.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="XXX Adult",A3Bikini (720p)
+#EXTINF:-1 tvg-id="A3Bikini.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="FOR ADULTS",A3Bikini (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Anal (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Anal (720p)
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Asian (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Asian (720p)
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Big Ass (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Big Ass (720p)
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Big Dick (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Big Dick (720p)
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Big Tits (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Big Tits (720p)
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Blonde (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Blonde (720p)
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Blowjob (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Blowjob (720p)
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Brunette (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Brunette (720p)
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Compilation (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Compilation (720p)
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Cuckold (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Cuckold (720p)
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Fetish (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Fetish (720p)
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Gangbang (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Gangbang (720p)
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Gay (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Gay (720p)
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Hardcore (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Hardcore (720p)
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Interracial (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Interracial (720p)
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Latina (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Latina (720p)
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Lesbian (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Lesbian (720p)
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Live Cams (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Live Cams (720p)
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net MILF (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net MILF (720p)
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Pornstar (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Pornstar (720p)
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net POV (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net POV (720p)
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Rough (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Rough (720p)
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Russian (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Russian (720p)
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Teen (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Teen (720p)
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Threesome (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Threesome (720p)
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="XXX Adult",AdultIPTV.net Woman (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="FOR ADULTS",AdultIPTV.net Woman (720p)
 http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 tvg-id="ASTTV1.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX Adult",AST TV 1 (PC) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ASTTV1.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="FOR ADULTS",AST TV 1 (PC) (1080p) [Not 24/7]
 https://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-id="ASTTV2.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX Adult",AST TV 2 (PC) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ASTTV2.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="FOR ADULTS",AST TV 2 (PC) (1080p) [Not 24/7]
 https://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 tvg-id="FashionTVMidniteSecrets.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://ia601009.us.archive.org/34/items/FreeIPTV20190226V2/TVLogos/FTVMidnightSecret_466x466.png" group-title="XXX Adult",Fashion TV Midnite Secrets (1080p)
+#EXTINF:-1 tvg-id="FashionTVMidniteSecrets.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://ia601009.us.archive.org/34/items/FreeIPTV20190226V2/TVLogos/FTVMidnightSecret_466x466.png" group-title="FOR ADULTS",Fashion TV Midnite Secrets (1080p)
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmonEroticSensations.us" tvg-country="INT" tvg-language="English" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="XXX Adult",Filmon Erotic Sensations (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="FilmonEroticSensations.us" tvg-country="INT" tvg-language="English" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="FOR ADULTS",Filmon Erotic Sensations (480p) [Not 24/7]
 https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmonFetishFactory.us" tvg-country="INT" tvg-language="English" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="XXX Adult",Filmon Fetish Factory (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="FilmonFetishFactory.us" tvg-country="INT" tvg-language="English" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="FOR ADULTS",Filmon Fetish Factory (480p) [Not 24/7]
 https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-#EXTINF:-1 tvg-id="JasminTV.lu" tvg-country="LU" tvg-language="English" tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png" group-title="XXX Adult",Jasmin TV (720p)
+#EXTINF:-1 tvg-id="JasminTV.lu" tvg-country="LU" tvg-language="English" tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png" group-title="FOR ADULTS",Jasmin TV (720p)
 http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX Adult",Miami TV (720p)
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="FOR ADULTS",Miami TV (720p)
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w214662580_b2592000.m3u8
-#EXTINF:-1 tvg-id="MiamiTVJennyLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX Adult",Miami TV Jenny Live (720p)
+#EXTINF:-1 tvg-id="MiamiTVJennyLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="FOR ADULTS",Miami TV Jenny Live (720p)
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX Adult",Miami TV México (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="FOR ADULTS",Miami TV México (720p) [Not 24/7]
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1924674763_b1896000.m3u8
 
-#EXTINF:-1 tvg-id="RougeTV.ch" tvg-country="CH" tvg-language="French" tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="XXX Adult",Rouge TV (720p)
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-country="CH" tvg-language="French" tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="FOR ADULTS",Rouge TV (720p)
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="XXX Adult",Visit-X TV (720p)
+#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="FOR ADULTS",Visit-X TV (720p)
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+
+
+
+
+
+
+
+-----------------------------------------------------------------TAMAT------------------------------------------------------------------------------
+
 
 
 
 ----------------------------------------------------
 cuba cuba           cuba cuba         cuba
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
