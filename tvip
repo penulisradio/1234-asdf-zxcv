@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml" refresh="3600"
 
 #EXTM3U
 #EXTINF:-1 tvg-id="astroria.my" tvg-name="RIA BACKUP" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="LIVE | ASTRO",RIA BACKUP
