@@ -72,14 +72,14 @@ http://linears-playback.astro.com.my/vsg/21_YiP04oA56TTwUKTsw9bZfMogOk6Y-Fa_QUcg
 http://linears-playback.astro.com.my/vsg/21_YiP04oA56TTwUKTsw9bZfMogOk6Y-Fa_QUcg0tJDdA=Ox-x/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Astro Ria HD" tvg-name="Astro Ria HD" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="MALAY",Astro Ria HD
-http://iptv.tvmalaysia.cc:80/128001/128001/6730
+http://iptv.tvmalaysia.cc:80/830327/830327/6730
 
 #EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="Astro Warna HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="MALAY",Astro Warna HD
-http://iptv.tvmalaysia.cc:80/128001/128001/6740
+http://iptv.tvmalaysia.cc:80/830327/830327/6740
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/272.ts
 
 #EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="Astro Citra HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="MALAY",Astro Citra HD
-http://iptv.tvmalaysia.cc:80/128001/128001/7267
+http://iptv.tvmalaysia.cc:80/830327/830327/7267
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/36.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -88,11 +88,11 @@ https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/36.ts
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD" tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg" group-title="MALAY",Astro Ceria HD
-http://iptv.tvmalaysia.cc:80/128001/128001/6715
+http://iptv.tvmalaysia.cc:80/830327/830327/6715
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/32.ts
 
 #EXTINF:-1 tvg-id="Naura HD" tvg-name="Naura HD" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="MALAY",Naura HD
-http://iptv.tvmalaysia.cc:80/128001/128001/6724
+http://iptv.tvmalaysia.cc:80/830327/830327/6724
 
 #EXTINF:-1 tvg-id="Go Shop 111" tvg-name="Go Shop 111" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="MALAY",Go Shop 111
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
@@ -108,7 +108,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Astro Aura HD" tvg-name="Astro Aura HD" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png" group-title="MALAY",Astro Aura HD
-http://iptv.tvmalaysia.cc:80/128001/128001/6713
+http://iptv.tvmalaysia.cc:80/830327/830327/6713
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/38.ts
 
 #EXTINF:-1 tvg-id="Astro Go Shop RUUMA" tvg-name="Go Shop 118" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png" group-title="MALAY",Go Shop 118
@@ -557,17 +557,17 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="SPORTS",Astro SuperSport HD
-http://iptv.tvmalaysia.cc:80/128001/128001/9024
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/694219
+http://iptv.tvmalaysia.cc:80/830327/830327/9024
+
 #EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="SPORTS",Astro SuperSport 2 HD
-http://iptv.tvmalaysia.cc:80/128001/128001/9025
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/694220
+http://iptv.tvmalaysia.cc:80/830327/830327/9025
+
 #EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORTS",Astro SuperSport 3 HD
-http://iptv.tvmalaysia.cc:80/128001/128001/6711
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/694221
+http://iptv.tvmalaysia.cc:80/830327/830327/6711
+
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="SPORTS",Astro SuperSport 4 HD
-http://iptv.tvmalaysia.cc:80/128001/128001/9026
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/694222
+http://iptv.tvmalaysia.cc:80/830327/830327/9026
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
