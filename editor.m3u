@@ -76,11 +76,11 @@ http://iptv.tvmalaysia.cc:80/830327/830327/6730
 
 #EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="Astro Warna HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="MALAY",Astro Warna HD
 http://iptv.tvmalaysia.cc:80/830327/830327/6740
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/272.ts
+
 
 #EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="Astro Citra HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="MALAY",Astro Citra HD
 http://iptv.tvmalaysia.cc:80/830327/830327/7267
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/36.ts
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
@@ -89,7 +89,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD" tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg" group-title="MALAY",Astro Ceria HD
 http://iptv.tvmalaysia.cc:80/830327/830327/6715
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/32.ts
+
 
 #EXTINF:-1 tvg-id="Naura HD" tvg-name="Naura HD" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="MALAY",Naura HD
 http://iptv.tvmalaysia.cc:80/830327/830327/6724
@@ -109,7 +109,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Astro Aura HD" tvg-name="Astro Aura HD" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png" group-title="MALAY",Astro Aura HD
 http://iptv.tvmalaysia.cc:80/830327/830327/6713
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/38.ts
+
 
 #EXTINF:-1 tvg-id="Astro Go Shop RUUMA" tvg-name="Go Shop 118" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png" group-title="MALAY",Go Shop 118
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
