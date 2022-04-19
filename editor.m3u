@@ -39,8 +39,8 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" tvg-logo="https://telegra.ph/file/c646c77fc8b4f4a532b21.png" group-title="MALAY",TV Okey
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-id="Awesome TV" tvg-name="Awesome TV" tvg-logo="https://telegra.ph/file/dcfe3ac04822ae28becdd.png" group-title="MALAY",Awesome TV
-http://iptv.tvmalaysia.cc:80/128001/128001/9016
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/180
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=743
+
 #EXTINF:-1 tvg-id="TV IKIM" tvg-name="TV IKIM" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png" group-title="MALAY",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MALAY",Berita RTM
