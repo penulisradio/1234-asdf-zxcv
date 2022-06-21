@@ -13,6 +13,7 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="MALAY",TV3
+https://tvmalaysiaonline.xyz:5443/LiveApp/streams/049308573816025645291571.m3u8
 http://tvmalaysia.cc:80/133127/133127/8750
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
@@ -84,6 +85,7 @@ http://iptv.tvmalaysia.cc:80/133127/133127/6740
 
 
 #EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="Astro Citra HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="MALAY",Astro Citra HD
+https://tvmalaysiaonline.xyz:5443/LiveApp/streams/936628122913222362290134.m3u8
 http://iptv.tvmalaysia.cc:80/133127/133127/7267
 
 
@@ -93,6 +95,7 @@ http://iptv.tvmalaysia.cc:80/133127/133127/7267
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD" tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg" group-title="MALAY",Astro Ceria HD
+https://tvmalaysiaonline.xyz:5443/LiveApp/streams/462882783099946595094212.m3u8
 http://iptv.tvmalaysia.cc:80/133127/133127/6715
 
 
