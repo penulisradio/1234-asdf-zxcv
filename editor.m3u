@@ -525,23 +525,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="SPORTS",RTM Sports HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="SPORTS",RTM Sports HD 1 
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg1/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="SPORTS",RTM Sports HD 2
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg2/chunklist_b4596000_slENG.m3u8
-
-#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="SPORTS",RTM Sports HD 3
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg3/chunklist_b4596000_slENG.m3u8
-
-#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="SPORTS",RTM Sports HD 4
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg4/chunklist_b4596000_slENG.m3u8
-
-#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="SPORTS",RTM Sports HD 5
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg5/chunklist_b4596000_slENG.m3u8
-
-#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="SPORTS",RTM Sports HD 6
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg6/chunklist_b4596000_slENG.m3u8
 
 
 
