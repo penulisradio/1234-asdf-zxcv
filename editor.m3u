@@ -564,6 +564,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 ---------------------
+#EXTINF:-1 tvg-id="Astro SuperSport UHD" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="SPORTS",Astro SuperSport UHD
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 
 #EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="SPORTS",Astro SuperSport HD
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142712.m3u8
