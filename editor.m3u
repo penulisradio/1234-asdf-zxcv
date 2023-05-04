@@ -85,10 +85,16 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=web.hy
 
 ----------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", Dunia Sinema 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl 
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8 
+https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
+----------------------------------------------------------------------------------------------------
 
-
-
-
+#EXTINF:-1 tvg-id="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", TV6 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my #EXTVLCOPT:network-caching=1000 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
 
 
