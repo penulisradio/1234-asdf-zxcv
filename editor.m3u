@@ -1,4 +1,3 @@
-
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1 HD
@@ -16,12 +15,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3
 https://aqfadtv.xyz/live/tv3/index.mpd
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png",Ria HD 
+EXTINF:-1 tvg-id="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png",Ria HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004 
 https://linears-playback.astro.com.my/vsg/419cgXDnniF3WAs2qOhlMlsRabaoC4U5lyiCe4DhMCu-s=z96k/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", PRIMA HD 
+#EXTINF:-1 tvg-id="Astro Prima HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", PRIMA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/ 
 https://aqfadtv.xyz/live/prima/index.mpd
