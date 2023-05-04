@@ -151,21 +151,6 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 ----------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png",Selangor TV #EXTVLCOPT:network-caching=1000 #EXTVLCOPT:http-referrer=https://skyios.sky4k.top https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ABO_Movies.png", THANGATHIRAI HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
