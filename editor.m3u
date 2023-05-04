@@ -95,6 +95,35 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 #EXTINF:-1 tvg-id="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", TV6 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my #EXTVLCOPT:network-caching=1000 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
+---------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png", Al-Hijrah
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+---------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
