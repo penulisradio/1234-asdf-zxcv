@@ -36,7 +36,7 @@ https://aqfadtv.xyz/live/prima/index.mpd
 https://aqfadtv.xyz/live/oasis/index.mpd
 
 -------------------------------------------------------------------------------------------------- ASTRO WARNA
-#EXTINF:-1 tvg-id="Astro Warna HD" tvg-logo="https://i.imgur.com/JCn7Yd0.png", Astro Warna HD
+EXTINF:-1 tvg-id="Astro Warna HD" tvg-logo="https://i.imgur.com/JCn7Yd0.png", Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41wNXH2riH95XyuzI3itJ0z6tOjAiW8Wd1F0zVrOFtj8U=kXN2/dash-wv/jitp-linearwm/2402/default_primary.mpd
@@ -44,7 +44,7 @@ https://linears-playback.astro.com.my/vsg/41wNXH2riH95XyuzI3itJ0z6tOjAiW8Wd1F0zV
 #EXTINF:-1 tvg-id="Astro Warna HD" tvg-logo="https://i.imgur.com/JCn7Yd0.png", Astro Warna HD 
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571231&extension=ts&play_token=1kEm8DbZmS
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Astro Warna HD 
+EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Astro Warna HD 
 https://link.zozotv.xyz:443/Amir60/28602860/35
 
 --------------------------------------------------------------------------------------------------
@@ -68,13 +68,15 @@ https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 ----------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png", Inspirasi 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 ----------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", Degup 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/ https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/ 
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 ----------------------------------------------------------------------------------------------------
 
@@ -104,16 +106,26 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 ---------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png",TV IKIM 
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+---------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",Suke TV 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-referrer=https://www.youtube.com 
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+---------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-id="TVS" tvg-logo="https://kuchingborneo.info/wp-content/uploads/2020/10/TVS-logo.jpg", TVS 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021/ 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+---------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Awesome TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png", Awesome TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
+https://aqfadtv.xyz/live/awesometv/index.mpd
 
 
 
