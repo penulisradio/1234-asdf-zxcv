@@ -25,5 +25,15 @@ https://linears-playback.astro.com.my/vsg/419cgXDnniF3WAs2qOhlMlsRabaoC4U5lyiCe4
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/ 
 https://aqfadtv.xyz/live/prima/index.mpd
 
+#EXTINF:-1 tvg-id="Astro Oasis HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png", OASIS HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505 
+https://aqfadtv.xyz/live/oasis/index.mpd
+
+
+
+
+
+
 
 
