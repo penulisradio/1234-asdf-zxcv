@@ -222,67 +222,144 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2702
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", tvN HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1001/ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", tvN HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1001/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QYR53ti.png", KPLUS #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QYR53ti.png", KPLUS 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/dfaf033cbe35e20c0dcb0.png", tvN Movies #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/dfaf033cbe35e20c0dcb0.png", tvN Movies 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", CERIA HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2408/default.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", CERIA HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png", DreamWorks #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5095 https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png", DreamWorks 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5095 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png", CARTOON NTWK HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png", CARTOON NTWK HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png", NICKELODEON HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2511 http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png", NICKELODEON HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2511 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png", NICK JR #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9982 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png", NICK JR 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9982 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png", Moonbug Kids #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5067 http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png", Moonbug Kids 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5067 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png", Boomerang HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408 http://adamtvonline.com:8080/111111111111/222222222222/104716 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png", Boomerang HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408 
+http://adamtvonline.com:8080/111111111111/222222222222/104716 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
+
+
+
 
 #################################################################### MOVIES ##################################################################################
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Abang Long Fadil 3 https://link.zozotv.xyz:443/live/Amir60/28602860/751.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Abang Long Fadil 3 
+https://link.zozotv.xyz:443/live/Amir60/28602860/751.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Daddyku Gengster https://link.zozotv.xyz:443/live/Amir60/28602860/790.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Daddyku Gengster 
+https://link.zozotv.xyz:443/live/Amir60/28602860/790.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Cikgu VS Hantu https://link.zozotv.xyz:443/live/Amir60/28602860/738.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Cikgu VS Hantu 
+https://link.zozotv.xyz:443/live/Amir60/28602860/738.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Bas Terakhir Malam Raya https://link.zozotv.xyz:443/live/Amir60/28602860/814.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Bas Terakhir Malam Raya 
+https://link.zozotv.xyz:443/live/Amir60/28602860/814.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Air Force The Movie Selagi Bernyawa https://link.zozotv.xyz:443/live/Amir60/28602860/754.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Air Force The Movie Selagi Bernyawa 
+https://link.zozotv.xyz:443/live/Amir60/28602860/754.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Duan Nago Bogho https://link.zozotv.xyz:443/live/Amir60/28602860/806.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Duan Nago Bogho 
+https://link.zozotv.xyz:443/live/Amir60/28602860/806.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Kalut Nak Kawin https://link.zozotv.xyz:443/live/Amir60/28602860/707.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Kalut Nak Kawin 
+https://link.zozotv.xyz:443/live/Amir60/28602860/707.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Kg Latah The Mummy https://link.zozotv.xyz:443/live/Amir60/28602860/715.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Kg Latah The Mummy 
+https://link.zozotv.xyz:443/live/Amir60/28602860/715.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Musyrik https://link.zozotv.xyz:443/live/Amir60/28602860/728.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Musyrik 
+https://link.zozotv.xyz:443/live/Amir60/28602860/728.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Pengabdi Setan 2 https://link.zozotv.xyz:443/live/Amir60/28602860/760.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Pengabdi Setan 2 
+https://link.zozotv.xyz:443/live/Amir60/28602860/760.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png", HITS MOVIES HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png", BOO #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505", HBO HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304 https://aqfadtv.xyz/live/hbo/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png", CINEMAX HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png", SHOWCASE #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png", HITS MOVIES HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122", HBO Family #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png", BOO 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 
-#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122", HBO Hits #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505", HBO HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304 
+https://aqfadtv.xyz/live/hbo/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gt1RM6s/hbo-signature-modified.png",HBO Signature (ID) #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png", CINEMAX HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png", AXN HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png", SHOWCASE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png", Lifetime HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122", HBO Family 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122", HBO Hits 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gt1RM6s/hbo-signature-modified.png",HBO Signature (ID) 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png", AXN HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png", Lifetime HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png", PRIMEtime HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default.mpd
 
