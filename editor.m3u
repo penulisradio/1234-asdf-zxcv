@@ -35,13 +35,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="123.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="",Awesome 
+#EXTINF:-1 tvg-id="123.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="",Awesome TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
-#EXTINF:-1 tvg-id="147.astro" tvg-logo="https://didik.tv/images/logotv2.png" group-logo="" group-title="", DIDIK TV KPM 
+#EXTINF:-1 tvg-id="147.astro" tvg-logo="https://didik.tv/images/logotv2.png" group-logo="" group-title="", DidikTV KPM
 https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
 
-#EXTINF:-1 tvg-id="146.astro" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="" group-title="",Okey 
+#EXTINF:-1 tvg-id="146.astro" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="" group-title="",TV Okey 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-id="116" ch-number="116" tvg-chno="116" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png" group-logo="" group-title="",SukaTV
@@ -54,7 +54,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-#EXTINF:-1 tvg-id="128.unifi" ch-number="128" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="",Dunia Sinema 
+#EXTINF:-1 tvg-id="128.unifi" ch-number="128" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="",Dunia Sinema HD
 https://unifi-live27.secureswiftcontent.com/UnifiHD/live27-1080FHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
