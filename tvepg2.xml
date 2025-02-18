@@ -1,0 +1,1147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Xilele">
+    <display-name lang="en">Xilele</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/574_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV1">
+    <display-name lang="en">TV1</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV2">
+    <display-name lang="en">TV2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="en">TV3</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroRia">
+    <display-name lang="en">Astro Ria</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroPrima">
+    <display-name lang="en">Astro Prima</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroOasis">
+    <display-name lang="en">Astro Oasis</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroCitra">
+    <display-name lang="en">Astro Citra</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TVSUKAN">
+    <display-name lang="en">Sukan RTM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="AstroRania">
+    <display-name lang="en">Astro Rania</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroAura">
+    <display-name lang="en">Astro Aura</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV6">
+    <display-name lang="en">TV6</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv6_Trans.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="TVAlhijrah">
+    <display-name lang="en">Al-Hijrah</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ColorsHD">
+    <display-name lang="en">Colors Hindi</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TVS">
+    <display-name lang="en">TVS</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BERITARTM">
+    <display-name lang="en">Berita RTM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0live_channel/berita_bckg.jpg" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="OKEY">
+    <display-name lang="en">TV Okey HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="DidikTVKPM">
+    <display-name lang="en">NTV7</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="8TV">
+    <display-name lang="en">8TV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV9">
+    <display-name lang="en">TV9</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroVaanavil">
+    <display-name lang="en">Astro Vaanavil</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroVinmeen">
+    <display-name lang="en">Astro Vinmeen</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroVellithirai">
+    <display-name lang="en">Astro Vellithirai</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SunTV">
+    <display-name lang="en">Sun TV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SunMusic">
+    <display-name lang="en">Sun Music</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Adithya">
+    <display-name lang="en">Adithya</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SunNews">
+    <display-name lang="en">Sun News</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="KTV">
+    <display-name lang="en">KTV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SunLife">
+    <display-name lang="en">Sun Life</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="StarVijay">
+    <display-name lang="en">Star Vijay</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ColorsTamilHD">
+    <display-name lang="en">Colors Tamil</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ZeeTamilHD">
+    <display-name lang="en">Zee Tamil</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroThangathirai">
+    <display-name lang="en">Astro Thangathirai</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ZeeCinema">
+    <display-name lang="en">Zee Cinema</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="iQIYI">
+    <display-name lang="en">iQIYI</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TVBClassic">
+    <display-name lang="en">TVB Classic</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroAEC">
+    <display-name lang="en">Astro AEC</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroQJ">
+    <display-name lang="en">Astro QJ</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CelestialMovies">
+    <display-name lang="en">Celestial Movies</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TVBJade">
+    <display-name lang="en">TVB Jade</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroAOD">
+    <display-name lang="en">Astro AOD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CTIAsia">
+    <display-name lang="en">CTI Asia HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TVBEntertainmentNews">
+    <display-name lang="en">TVB Entertainment News</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TVBXingHe">
+    <display-name lang="en">TVB Xing He</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TVBSAsia">
+    <display-name lang="en">TVBS Asia</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CCM">
+    <display-name lang="en">CCM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="PhoenixChineseChannel">
+    <display-name lang="en">Phoenix Chinese Channel</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/382_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="PhoenixInfoNews">
+    <display-name lang="en">Phoenix Info News</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroHuaHeeDai">
+    <display-name lang="en">Astro Hua Hee Dai</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CCTV4">
+    <display-name lang="en">CCTV4</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="KBSWorld">
+    <display-name lang="en">KBS World</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ONE">
+    <display-name lang="en">ONE</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="tvN">
+    <display-name lang="en">tvN</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="K-Plus">
+    <display-name lang="en">K-Plus</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="NHKWorldPremium">
+    <display-name lang="en">NHK World</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HITSMovies">
+    <display-name lang="en">HITS Movies</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroBoo">
+    <display-name lang="en">Boo</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="en">HBO</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="en">CINEMAX</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroShowcase">
+    <display-name lang="en">Astro Showcase</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HBOFamily">
+    <display-name lang="en">HBO Family</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HBOHits">
+    <display-name lang="en">HBO Hits</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="tvNMovies">
+    <display-name lang="en">tvN Movies</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroAwani">
+    <display-name lang="en">Astro Awani</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BernamaTV">
+    <display-name lang="en">BERNAMA</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="en">CGTN</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/426_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="en">CNN</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BBCNews">
+    <display-name lang="en">BBC News</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/366_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AlJazeeraEnglish">
+    <display-name lang="en">Al Jazeera English</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SkyNews">
+    <display-name lang="en">Sky News</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CNA">
+    <display-name lang="en">CNA</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CNBCAsia">
+    <display-name lang="en">CNBC Asia</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BloombergTV">
+    <display-name lang="en">Bloomberg TV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ABCAustralia">
+    <display-name lang="en">ABC Australia</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/461_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="DW">
+    <display-name lang="en">DW English</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="France24">
+    <display-name lang="en">France24</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/289_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="LoveNature4K">
+    <display-name lang="en">Love Nature 4K</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/472_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="LoveNature">
+    <display-name lang="en">Love Nature</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="GlobalTrekker">
+    <display-name lang="en">Global Trekker</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="DiscoveryChannel">
+    <display-name lang="en">Discovery Channel HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="DiscoveryAsia">
+    <display-name lang="en">Discovery Asia</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BBCEarth">
+    <display-name lang="en">BBC Earth</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="en">History</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AnimalPlanet">
+    <display-name lang="en">Animal Planet</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroTutorTV">
+    <display-name lang="en">Astro Tutor TV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/411_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroCeria">
+    <display-name lang="en">Astro Ceria</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CartoonNetwork">
+    <display-name lang="en">Cartoon Network</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="en">Nickelodeon</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="NickJr">
+    <display-name lang="en">Nick Jr</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MoonbugKids">
+    <display-name lang="en">Moonbug</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BlippiandFriends">
+    <display-name lang="en">Blippi &amp; Friends</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/566_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CBeebies">
+    <display-name lang="en">CBeebies</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="en">AXN</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HITSNow">
+    <display-name lang="en">HITS Now</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/524_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="en">Lifetime</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HITS">
+    <display-name lang="en">HITS</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="en">TLC</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FoodNetwork">
+    <display-name lang="en">Food Network</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AFN">
+    <display-name lang="en">Asian Food Network</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="WarnerTV">
+    <display-name lang="en">Warner TV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CrimeInvestigation">
+    <display-name lang="en">Crime &amp; Investigation</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HGTV">
+    <display-name lang="en">HGTV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="DMAX">
+    <display-name lang="en">DMAX</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BBCLifestyle">
+    <display-name lang="en">BBC Lifestyle</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/451_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MTVLive">
+    <display-name lang="en">MTV Live</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MTVAsia">
+    <display-name lang="en">MTV Live</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroArena">
+    <display-name lang="en">Astro Arena</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroArena2">
+    <display-name lang="en">Astro Arena 2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroArenaBola">
+    <display-name lang="en">Astro Arena Bola</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroArenaBola2">
+    <display-name lang="en">Astro Arena Bola 2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroSportsUHD">
+    <display-name lang="en">Astro Sports UHD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SPOTV2">
+    <display-name lang="en">SPOTV2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroGrandstand">
+    <display-name lang="en">Astro Grandstand</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroPremierLeague">
+    <display-name lang="en">Astro Premier League</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroPremierLeague2">
+    <display-name lang="en">Astro Premier League 2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroPremierLeague3">
+    <display-name lang="en">Astro Premier League 3</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroFootball">
+    <display-name lang="en">Astro Football</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroBadminton">
+    <display-name lang="en">Astro Badminton</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroBadminton2">
+    <display-name lang="en">Astro Badminton 2</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroSportsPlus">
+    <display-name lang="en">Astro Sports Plus</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="W-Sport">
+    <display-name lang="en">W-Sport</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SPOTV">
+    <display-name lang="en">SPOTV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="beINSports2">
+    <display-name lang="en">beIN Sports 2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="beINSports">
+    <display-name lang="en">beIN Sports</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="beINSports3">
+    <display-name lang="en">beIN Sports 3</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="en">Eurosport</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="GolfChannel">
+    <display-name lang="en">Golf Channel</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="PremierSports">
+    <display-name lang="en">Premier Sports</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroCricket">
+    <display-name lang="en">Astro Cricket</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HITZ">
+    <display-name lang="en">HITZ</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MY">
+    <display-name lang="en">MY</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="LITE">
+    <display-name lang="en">LITE</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MIX">
+    <display-name lang="en">MIX</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ERA">
+    <display-name lang="en">ERA</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SINAR">
+    <display-name lang="en">SINAR</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MELODY">
+    <display-name lang="en">MELODY</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="RAAGA">
+    <display-name lang="en">RAAGA</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ROCK">
+    <display-name lang="en">SYOK CLASSIC ROCK</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="GOLD">
+    <display-name lang="en">SYOK GOLD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="OPUS">
+    <display-name lang="en">SYOK OPUS</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="GEGAR">
+    <display-name lang="en">GEGAR</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="INDIA">
+    <display-name lang="en">SYOK INDIA BEAT</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="JAZZ">
+    <display-name lang="en">SYOK JAZZ</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="OSAI">
+    <display-name lang="en">SYOK OSAI</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BAYU">
+    <display-name lang="en">SYOK BAYU</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SYOK KENYALANG">
+    <display-name lang="en">KENYALANG</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="NASFM">
+    <display-name lang="en">NAS FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="VFM">
+    <display-name lang="en">V FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/29_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="WAIFM">
+    <display-name lang="en">WAI FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/145_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TRAXXFM">
+    <display-name lang="en">TRAXX FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MINNALFM">
+    <display-name lang="en">MINNAL FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AIFM">
+    <display-name lang="en">AI FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/303_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASYIKFM">
+    <display-name lang="en">ASYIK FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/310_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ZAYAN">
+    <display-name lang="en">ZAYAN</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="GOXUAN">
+    <display-name lang="en">GO XUAN</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Animax">
+    <display-name lang="en">Animax HD</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="VisionPrime.id">
+    <display-name lang="id">Vision Prime HD</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_1.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HitsMovies.sg">
+    <display-name lang="id">HITS Movies</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_169.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="GALAXYPremium">
+    <display-name lang="id">GALAXY Premium</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_12.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="GALAXY">
+    <display-name lang="id">GALAXY</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_13.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="IMC">
+    <display-name lang="id">IMC</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_14.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MyFamilyChannel">
+    <display-name lang="id">My Family Channel</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_15.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MyCinema">
+    <display-name lang="id">My Cinema</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_16.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MyCinemaAsia">
+    <display-name lang="id">My Cinema Asia</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_17.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Thrill.hk">
+    <display-name lang="id">Thrill</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CelestialMovies.hk">
+    <display-name lang="id">Celestial Movies</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/celestial.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CCM.hk">
+    <display-name lang="id">CCM</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_22.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ZeeBioskop.id">
+    <display-name lang="id">Zee Bioskop</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_23.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvNMovies.kr">
+    <display-name lang="id">tvN Movies</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_25.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CBeebiesAsia.uk">
+    <display-name lang="id">CBeebies</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/cbeebies_150.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="KidsTV.id">
+    <display-name lang="id">Kids TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_46.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MyKidz">
+    <display-name lang="id">My Kidz</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_50.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Indosiar.id">
+    <display-name lang="id">Indosiar</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/Indosiar.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="RCTI.id">
+    <display-name lang="id">RCTI</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_80.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="GTV.id">
+    <display-name lang="id">GTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_81.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MNCTV.id">
+    <display-name lang="id">MNCTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_82.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="iNews.id">
+    <display-name lang="id">iNews</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_83.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MNCNews.id">
+    <display-name lang="id">MNC News</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_84.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Ent.id">
+    <display-name lang="id">Entertainment</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_86.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="TransTV.id">
+    <display-name lang="id">Trans TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_87.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars4">
+    <display-name lang="id">Sportstars 4</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_88.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SCTV.id">
+    <display-name lang="id">SCTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/sctv.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="LifestyleandFashion.id">
+    <display-name lang="id">Lifestyle &amp; Fashion</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_90.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="LIFE.id">
+    <display-name lang="id">LIFE</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_91.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MuslimTV.id">
+    <display-name lang="id">Muslim TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_92.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="AlQuranKareem.id">
+    <display-name lang="id">Al Quran Al Kareem</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_93.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="OKTV.id">
+    <display-name lang="id">OK TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_95.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Ie.id">
+    <display-name lang="id">Infotaiment</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_96.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvOne.id">
+    <display-name lang="id">tvOne</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/tvone.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MNCSports2.id">
+    <display-name lang="id">MNC Sports 2</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_98.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MNCSports3.id">
+    <display-name lang="id">MNC Sports 3</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_99.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="IDX.id">
+    <display-name lang="id">IDX</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SoccerChannel.id">
+    <display-name lang="id">Soccer Channel</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_101.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MNCSports.id">
+    <display-name lang="id">MNC Sports</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_102.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BeritaSatuNewsChannel.id">
+    <display-name lang="id">Berita Satu</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_103.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="TawafTV.id">
+    <display-name lang="id">Tawaf TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_105.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="KompasTV.id">
+    <display-name lang="id">Kompas TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_106.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MetroTV.id">
+    <display-name lang="id">Metro TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_107.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Trans7.id">
+    <display-name lang="id">Trans 7</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_110.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MusicTV.id">
+    <display-name lang="id">Music TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_111.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="JakTV.id">
+    <display-name lang="id">JAKTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_113.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ANTV.id">
+    <display-name lang="id">ANTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_115.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="NET.id">
+    <display-name lang="id">Net TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_116.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="TVRI.id">
+    <display-name lang="id">TVRI</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_118.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MTV90s">
+    <display-name lang="id">MTV 90s</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_149.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FMN.id">
+    <display-name lang="id">FMN</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="KIX.id">
+    <display-name lang="id">KIX</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_161.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="OutdoorChannel">
+    <display-name lang="id">Outdoor</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_202.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CGTNDocumentary">
+    <display-name lang="id">CGTN Documentary</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_205.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ROCKEntertainment">
+    <display-name lang="id">ROCK Entertainment</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_240.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ROCKAction">
+    <display-name lang="id">ROCK Action</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_248.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FightSports">
+    <display-name lang="id">Fight Sports</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SPOTV.id">
+    <display-name lang="id">SPOTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_307.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SPOTV2.id">
+    <display-name lang="id">SPOTV2</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_308.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="AlJazeeraEnglish.id">
+    <display-name lang="id">Al Jazeera English</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_331.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BBCNews.id">
+    <display-name lang="id">BBC News</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_332.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOXNews">
+    <display-name lang="id">FOX News</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/fox_news_channel.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SEAToday">
+    <display-name lang="id">SEA Today</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_336.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CNBCAsia.id">
+    <display-name lang="id">CNBC Asia</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_337.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BloombergTV.id">
+    <display-name lang="id">Bloomberg TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/bloomberg.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ABCAustralia.id">
+    <display-name lang="id">ABC Australia</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_350.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Arirang">
+    <display-name lang="id">Arirang TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_351.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CGTN.id">
+    <display-name lang="id">CGTN</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_353.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="NHKWorldJapan">
+    <display-name lang="id">NHK World</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="DWEnglish">
+    <display-name lang="id">DW English</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_357.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Ch 5">
+    <display-name lang="en">Channel 5</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Ch 8">
+    <display-name lang="en">Channel 8</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Ch U">
+    <display-name lang="en">Channel U</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Suria">
+    <display-name lang="en">Suria</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Vasantham">
+    <display-name lang="en">Vasantham</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+ 
+  
+</tv>
