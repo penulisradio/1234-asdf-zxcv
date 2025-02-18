@@ -1142,6 +1142,21 @@
     <display-name lang="en">Vasantham</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
- 
-  
+  <programme start="20250217000000 +0000" stop="20250217010000 +0000" channel="Xilele">
+    <title lang="en">The King of Yesterday and Tomorrow</title>
+    <desc lang="en">Emperor Yung Zheng and his consort get transported in time to modern-day Hong Kong and involved in a corporate power-struggle.</desc>
+    <credits>
+      <director>Siu Hin Fai</director>
+      <actor>Kwong Wa</actor>
+      <actor>Maggie Cheung</actor>
+      <actor>Melissa Ng</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JLHWI.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>  
 </tv>
