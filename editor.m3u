@@ -2,7 +2,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mystery75/streaming/app/VOD.js"
 
 
-
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebb6e28c8db6df4325ac9bd545b7e810:f6b73bfbc9c7604f74b5d8a5e83c17e4
+#EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="▶ First" group-logo="" tvg-logo="https://perfecttv.net/first/joker2024.jpg", 967-Joker 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/65266952-8476-5f90-a5f3-95f7f9f33436/default_dash.mpd
 
 
 #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="FHD",TV1 
