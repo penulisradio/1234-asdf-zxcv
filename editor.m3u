@@ -15,9 +15,14 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 tvg-id="103.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-logo="" group-title="FHD",TV3
+####EXTINF:-1 tvg-id="103.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-logo="" group-title="FHD",TV3
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 ##https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OTdhNjkxYmUtODU2My0zOTI5LWI5YWMtZjFlYjU2M2MwMzJm
+#EXTINF:-1 tvg-id="103.unifi" ch-number="103" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="FHD",TV3  
+https://webr24.hypp.tv:443/PLTV/88888888/224/3221225724/3221225724.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=4i0ZeB6HnpXHfxQjSH%2FveUv5XGLx0zG6O7bPzgX%2BHXsFWO4mhti7n%2BIVV8mKSzHzpcGSW58KkEcNC%2B8BoaoCU9QFewkJhkaHmcUi6ZICYlgamTL0ZbtXcqtT201yk%2FOe9c61c6ce3a7c24efac1304293d206dd5%3A20250423052757%3AUTC%2C1005926113%2C175.142.247.31%2C20250423052757%2Curn%3AHuawei%3AliveTV%3Aiptv182%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C4098079851%2C%2C%2C2%2C1%2C43361030%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOywrCMBRE_ybL0DyqdpGVIghSBatbud7cxtK00aQK_r1WC25n5gxniIC0WRm0IhMKNalCaihwITRmOKulFvlMa8kS3ctgJEPwvuldGeyInQ7Ls8h4xqVWXMicVePf2oObpuWju1D8cweKzwbJ2FTzJyQOzkVyMDSh53sPr2P004RRNbmJuc5VIZQs5nLBhjGtILWfhl0hLUN3g0h2G9wXMDX4ROwG2IKjEjoy_cP7H7eL9mPzBr4rY5P1AAAA
 
 #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="FHD",TV6 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
